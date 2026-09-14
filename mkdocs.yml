@@ -1,0 +1,31 @@
+site_name: ISSQUARED EBIS Training — Organization Module
+site_description: Single-source training documentation for the EBIS Organization module
+docs_dir: docs
+
+theme:
+  name: material
+  palette:
+    # Swap these two colors for official Issquared brand colors before the demo
+    primary: deep blue
+    accent: blue
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - content.action.view
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Organization Module Training: index.md
+
+markdown_extensions:
+  # CRITICAL: this renders the {width=44%} image attributes from the
+  # conversion pipeline as real image sizes instead of literal text
+  - attr_list
+  - admonition
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.highlight
+  - pymdownx.superfences
