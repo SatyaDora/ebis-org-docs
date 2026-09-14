@@ -10,7 +10,7 @@
 
 ![](media/slide010_img1.png){width=99%}
 
-## Organization – My Organizations – Create Organization
+## Create Organization
 
 - To create a new organization:
 - Click the Create icon from the top toolbar.
@@ -22,7 +22,7 @@
 
 ![](media/slide011_img2.png){width=99%}
 
-## Organization – My Organizations – Create Organization (continued)
+## Create Organization 2
 
 - Click the Incorporation Details tab.
 - Enter incorporation details such as Incorporation Name, Incorporation Type, Incorporation Status, Country, State, Incorporation Number, Incorporation Date, Fees, and Costs.
@@ -34,7 +34,7 @@
 
 ![](media/slide012_img1.png){width=95%}
 
-## Organization – My Organizations – Create Organization (continued 3)
+## Create Organization 3
 
 - Under the License Details tab, review or update:
  - License Name
@@ -53,7 +53,7 @@
 
 ![](media/slide013_img2.png){width=95%}
 
-## Organization – My Organizations – Create Organization (continued 4)
+## Create Organization 4
 
 - Other Details tab.
 - Update the required custom fields such as:
@@ -77,7 +77,7 @@
 
 ![](media/slide014_img3.png){width=93%}
 
-## Organization – My Organizations – Create Organization (continued 5)
+## Create Organization 5
 
 - Click the option to add or select SMTP domains.
 - In the Select SMTP Domain Name window, choose the required SMTP domain from the available list.
@@ -167,7 +167,7 @@
 
 ![](media/slide020_img2.png){width=95%}
 
-## Organization – My Organizations (continued)
+## Organization – My Organizations 2
 
 **Edit/Modify My Organizations Details**
 - Navigate to Organization > My Organizations.
@@ -185,7 +185,7 @@
 
 ![](media/slide021_img3.png){width=89%}
 
-## Organization – My Organizations (continued 3)
+## Organization – My Organizations 3
 
 - In the edit screen, update the required fields under the Incorporation Details.
 - Modify details such as: Incorporation Type, Incorporation Country, Incorporation Number, Incorporation Fees, Incorporation Status, Incorporation Date, Consultancy Information.
@@ -195,7 +195,7 @@
 
 ![](media/slide022_img1.png){width=96%}
 
-## Organization – My Organizations (continued 4)
+## Organization – My Organizations 4
 
 - Click the option to add a new document.
 - In the Documents screen, enter the required information such as:
@@ -210,7 +210,7 @@
 
 ![](media/slide023_img1.png){width=95%}
 
-## Organization – My Organizations (continued 5)
+## Organization – My Organizations 5
 
 - Click the option to add a new trade listing record.
 - In the Trade Listing screen, enter the required information such as:

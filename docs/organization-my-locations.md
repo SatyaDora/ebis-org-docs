@@ -9,7 +9,7 @@
 
 ![](media/slide044_img1.png){width=94%}
 
-## Organization – My Locations – Create New Location
+## Create New Location
 
 - Open the My Locations screen and create a new location record.
 - Enter the required details such as Location Name and Organization Name.
@@ -29,7 +29,7 @@
 
 ![](media/slide045_img2.png){width=93%}
 
-## Organization – My Locations – Create New Location (continued)
+## Create New Location 2
 
 **Additional Information Tab**
 - Navigate to the Additional Information tab under the Buildings section.
@@ -39,7 +39,7 @@
 
 ![](media/slide046_img1.png){width=98%}
 
-## Organization – My Locations – Create New Location (continued 3)
+## Create New Location 3
 
 **Access Information Tab**
 - Navigate to the Access Information tab.
@@ -50,7 +50,7 @@
 
 ![](media/slide047_img1.png){width=96%}
 
-## Organization – My Locations – Create New Location (continued 4)
+## Create New Location 4
 
 **Other Information Tab**
 - Navigate to the Other Information tab.
@@ -61,7 +61,7 @@
 
 ![](media/slide048_img1.png){width=98%}
 
-## Organization – My Locations – Create New Location (continued 5)
+## Create New Location 5
 
 **Documents Tab**
 - Navigate to the Documents tab.
@@ -71,7 +71,7 @@
 
 ![](media/slide049_img1.png){width=98%}
 
-## Organization – My Locations – Create New Location (continued 6)
+## Create New Location 6
 
 - Navigate to the Floors tab.
 - Create and manage floor records associated with the selected building.
@@ -81,7 +81,7 @@
 
 ![](media/slide050_img1.png){width=98%}
 
-## Organization – My Locations – Edit Location Details
+## Edit Location Details
 
 - Select the required location record from the list view.
 - Open the selected record in edit mode.
@@ -91,7 +91,7 @@
 
 ![](media/slide051_img1.png){width=96%}
 
-## Organization – My Locations – Edit Buildings
+## Edit Buildings
 
 - The Buildings section allows administrators to associate one or more building records with a specific organization location.
 - Navigate to the Buildings section under the selected location record.
@@ -104,7 +104,7 @@
 
 ![](media/slide052_img2.png){width=93%}
 
-## Organization – My Locations – Edit Buildings (continued)
+## Edit Buildings 2
 
 **Additional Information Tab**
 - Navigate to the Additional Information tab under the Buildings section.
@@ -124,7 +124,7 @@
 
 ![](media/slide054_img1.png){width=98%}
 
-## My Locations – Edit Location Details – Buildings (continued)
+## My Locations – Edit Location Details – Buildings 2
 
 **Other Information Tab**
 - Navigate to the Other Information tab.
@@ -135,7 +135,7 @@
 
 ![](media/slide055_img1.png){width=99%}
 
-## My Locations – Edit Location Details – Buildings (continued 3)
+## My Locations – Edit Location Details – Buildings 3
 
 **Documents Tab**
 - Navigate to the Documents tab.
@@ -145,7 +145,7 @@
 
 ![](media/slide056_img1.png){width=98%}
 
-## My Locations – Edit Location Details – Buildings (continued 4)
+## My Locations – Edit Location Details – Buildings 4
 
 **Floors Tab**
 - Navigate to the Floors tab. Create and manage floor records associated with the selected building. Maintain floor-related information such as floor identification, numbering, and associated operational details. Review all entered floor information carefully before saving. Click Save / Update to apply the changes.
@@ -169,7 +169,7 @@
 
 ![](media/slide058_img1.png){width=95%}
 
-## My Locations – Buildings – Floors (continued)
+## My Locations – Buildings – Floors 2
 
 - Configure the Floor Plan options based on the facilities available on the floor:
  - Data Center

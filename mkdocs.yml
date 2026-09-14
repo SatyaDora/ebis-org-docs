@@ -29,9 +29,17 @@ nav:
   - Contacts: organization-contacts.md
   - Admin – General: organization-administration-general.md
 
+plugins:
+  - search
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      zoomable: true
+      draggable: true
+
 markdown_extensions:
-  # CRITICAL: this renders the {width=44%} image attributes from the
-  # conversion pipeline as real image sizes instead of literal text
   - attr_list
   - admonition
   - toc:
@@ -39,3 +47,6 @@ markdown_extensions:
       toc_depth: 3
   - pymdownx.highlight
   - pymdownx.superfences
+  - toc:
+      permalink: true
+      toc_depth: 2

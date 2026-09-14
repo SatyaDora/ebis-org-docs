@@ -15,7 +15,7 @@
 
 ![](media/slide105_img1.png){width=93%}
 
-## Organization – Administration – General (continued)
+## Organization – Administration – General 2
 
 - The General section under Administration provides centralized configuration options for:
 - Domains
@@ -29,7 +29,7 @@
 
 ![](media/slide106_img1.png){width=98%}
 
-## Organization – Administration – General – Domains
+## Domains
 
 - Important Navigation and Workflow
 - Note:
@@ -42,7 +42,7 @@
 - Save the configuration after verification.
 - Create and Edit operations follow the same screen layout and workflow.
 
-## Organization – Administration – General – Domains (continued)
+## Domains 2
 
 - The Domains screen is used to maintain internet domain registrations associated with the organization. This information helps administrators track registration details, renewal dates, registrar information, account credentials, and related SMTP domains.
 
@@ -60,7 +60,7 @@
 
 ![](media/slide108_img1.png){width=94%}
 
-## Organization – Administration – General – Domains (continued 3)
+## Domains 3
 
 - Edit/Modify Domains
 - Select an existing domain and click Edit.
@@ -77,7 +77,7 @@
 
 ![](media/slide109_img1.png){width=93%}
 
-## Organization – Administration – General – Email Template
+## Email Template
 
 - Create or Edit Email Template.
 - Navigate to Administration → General → Email Templates.
@@ -95,7 +95,7 @@
 
 ![](media/slide110_img2.png){width=93%}
 
-## Organization – Administration – General – Error Log
+## Error Log
 
 - Error Log
 - Use the available filters to locate specific error records.
@@ -106,7 +106,7 @@
 
 - Note: Error Log records are generated automatically by the system and are intended for monitoring and diagnostic activities.
 
-## Organization – Administration – General – Grid Schema
+## Grid Schema
 
 - Grid Schema.
 - Select the required Grid Name from the dropdown list.
@@ -124,7 +124,7 @@
 
 ![](media/slide112_img3.png){width=95%}
 
-## Organization – Administration – General – List Entries
+## List Entries
 
 - The List Entries screen is used to manage configurable lookup lists that are referenced throughout the application. Administrators can maintain list definitions and their associated values, which populate dropdown menus and selection fields across various modules.
 
@@ -138,7 +138,7 @@
 
 ![](media/slide113_img2.png){width=95%}
 
-## Organization – Administration – General – List Entries (continued)
+## List Entries 2
 
 - Configure the Is Child option if the list entry is dependent on another list.
 - Add the List Entry Name using the dropdown if the list entry is dependent on another list.
@@ -149,7 +149,7 @@
 
 ![](media/slide114_img2.png){width=94%}
 
-## Organization – Administration – General – Metric Templates
+## Metric Templates
 
 - The Metric Templates section is used to create and manage reusable scoring templates. A Metric Template defines a collection of evaluation metrics, along with their weights and scoring ranges, which can be used consistently across assessments, supplier evaluations, audits, or other business processes.
 
@@ -169,7 +169,7 @@
 
 ![](media/slide115_img2.png){width=95%}
 
-## Organization – Administration – General – Metric Templates (continued)
+## Metric Templates 2
 
 - To Edit a Metric Template
 - Navigate to Administration > General > Metric Templates.
@@ -189,7 +189,7 @@
 - Enter the metric configuration details.
 - Click Save or Save & New.
 
-## Organization – Administration – General – Metric Templates (continued 3)
+## Metric Templates 3
 
 - To Add a Metric Value
 - Open the required Metric Template.
@@ -207,7 +207,7 @@
 
 ![](media/slide117_img2.png){width=88%}
 
-## Organization – Administration – General – SMTP Domains
+## SMTP Domains
 
 - The SMTP Domains section is used to maintain the list of approved email domains that can be associated with email configurations, domain records, and outbound communication processes within the system.
 
@@ -223,7 +223,7 @@
 
 ![](media/slide118_img2.png){width=94%}
 
-## Organization – Administration – General – SMTP Domains (continued)
+## SMTP Domains 2
 
 - To Edit an SMTP Domain
 - Navigate to Administration > General > SMTP Domains.

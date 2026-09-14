@@ -13,7 +13,7 @@
 
 ![](media/slide075_img1.png){width=93%}
 
-## Organization – External Organizations (continued)
+## Organization – External Organizations 2
 
 - The External Organizations module is used to create, manage, and maintain information related to third-party organizations, vendors, partners, subsidiaries, clients, and associated business entities.
 
@@ -34,7 +34,7 @@
 
 ![](media/slide076_img2.png){width=95%}
 
-## Organization – External Organizations – Common Toolbar Actions
+## Common Toolbar Actions
 
 - The toolbar options such as:
  - Clone
@@ -50,7 +50,7 @@
 
 ![](media/slide077_img1.png){width=99%}
 
-## Organization – External Organizations (continued 3)
+## Organization – External Organizations 3
 
 - Create / Edit External Organization.
 - Navigate to the External Organizations screen.
@@ -68,7 +68,7 @@
 
 ![](media/slide078_img2.png){width=94%}
 
-## Organization – External Organizations (continued 4)
+## Organization – External Organizations 4
 
 - Enable the Top Parent option if the organization is the primary parent organization.
 - Enter or update:
@@ -85,7 +85,7 @@
 
 ![](media/slide079_img1.png){width=94%}
 
-## Organization – External Organizations (continued 5)
+## Organization – External Organizations 5
 
 **Additional Details**
 - Navigate to the Additional Details tab.
@@ -100,7 +100,7 @@
 
 ![](media/slide080_img1.png){width=94%}
 
-## Organization – External Organizations (continued 6)
+## Organization – External Organizations 6
 
 **Other Details**
 - Navigate to the Other Details tab.
@@ -113,7 +113,7 @@
 
 ![](media/slide081_img1.png){width=94%}
 
-## Organization – External Organizations (continued 7)
+## Organization – External Organizations 7
 
 - Enable the International Company option if the organization operates internationally.
 - Enable the Security Clearance Required option if additional security validation is needed for engagements.
@@ -128,7 +128,7 @@
 
 ![](media/slide082_img1.png){width=95%}
 
-## Organization – External Organizations (continued 8)
+## Organization – External Organizations 8
 
 - Documents
 - Navigate to the Documents tab.
@@ -144,7 +144,7 @@
 
 ![](media/slide083_img1.png){width=95%}
 
-## Organization – External Organizations (continued 9)
+## Organization – External Organizations 9
 
 ![](media/slide084_img1.png){width=95%}
 
@@ -167,7 +167,7 @@
 - Verify the domain information carefully.
 - Click Save / Update to apply the changes.
 
-## Organization – External Organizations (continued 10)
+## Organization – External Organizations 10
 
 - Entitlements
 - Navigate to the Entitlements tab.
@@ -190,7 +190,7 @@
 
 ![](media/slide085_img2.png){width=94%}
 
-## Organization – External Organizations (continued 11)
+## Organization – External Organizations 11
 
 **Application Documents**
 - Navigate to the Application Documents tab.

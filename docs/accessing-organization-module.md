@@ -15,7 +15,7 @@
 
 ![](media/slide007_img3.png){width=90%}
 
-## Accessing the Platform – Flow (continued)
+## Accessing the Platform – Flow
 
 - Access the ORSUS Portal
 - Use the login credentials provided by your Organization.

@@ -19,7 +19,7 @@
 
 ![](media/slide061_img2.png){width=95%}
 
-## Organization – Contracts – Common Toolbar Actions
+## Common Toolbar Actions
 
 - Select the required contract record from the list.
 - Use the available actions to:
@@ -30,7 +30,7 @@
 
 ![](media/slide062_img1.png){width=95%}
 
-## Organization – Contracts (continued)
+## Organization – Contracts 2
 
 - To create a new Contract:
 - In the Contracts listing screen, click Create New from the top toolbar.
@@ -46,7 +46,7 @@
 
 ![](media/slide063_img2.png){width=95%}
 
-## Organization – Contracts (continued 3)
+## Organization – Contracts 3
 
 - After clicking Save, the remaining contract sections will appear as shown below. Configure these sections using the available tabs:
 **Contract Details**
@@ -59,7 +59,7 @@
 
 ![](media/slide064_img1.png){width=94%}
 
-## Organization – Contracts (continued 4)
+## Organization – Contracts 4
 
 - Information Tab. The Parent Contract and Superseding Contract options are useful when:
 - A contract replaces an older agreement
@@ -70,7 +70,7 @@
 
 ![](media/slide065_img1.png){width=96%}
 
-## Organization – Contracts (continued 5)
+## Organization – Contracts 5
 
 **Other Information Tab**
 - This section helps organizations:
@@ -83,7 +83,7 @@
 
 ![](media/slide066_img1.png){width=95%}
 
-## Organization – Contracts (continued 6)
+## Organization – Contracts 6
 
 **Request Recipients Tab**
 - Navigate to the Request Recipients tab.
@@ -99,7 +99,7 @@
 
 ![](media/slide067_img1.png){width=97%}
 
-## Organization – Contracts (continued 7)
+## Organization – Contracts 7
 
 - To Configure Request Recipients
 - Open the Request Recipients tab.
@@ -110,7 +110,7 @@
 
 ![](media/slide068_img1.png){width=93%}
 
-## Organization – Contracts (continued 8)
+## Organization – Contracts 8
 
 **Contract Document Tab**
 - Navigate to the Contract Document tab.
@@ -127,7 +127,7 @@
 
 ![](media/slide069_img1.png){width=97%}
 
-## Organization – Contracts (continued 9)
+## Organization – Contracts 9
 
 - To Upload a Contract Document:
 - Open the Contract Document tab.
@@ -140,7 +140,7 @@
 
 ![](media/slide070_img1.png){width=93%}
 
-## Organization – Contracts (continued 10)
+## Organization – Contracts 10
 
 - Edit Contract
 - The Edit Contract screen allows users to update existing contract information throughout the contract lifecycle.
@@ -173,7 +173,7 @@
 
 ![](media/slide072_img2.png){width=93%}
 
-## Organization – Edit Contract (continued)
+## Organization – Edit Contract 2
 
 **To Edit Contract Details**
 - Navigate to the Contract Details tab.

@@ -18,7 +18,7 @@
 
 ![](media/slide088_img2.png){width=95%}
 
-## Organization – External Locations (continued)
+## Organization – External Locations 2
 
 - Create / Edit External Location.
 - The Create / Edit External Location screen is used to maintain detailed address, communication, and operational information for external organization locations.
@@ -38,7 +38,7 @@
 
 ![](media/slide089_img2.png){width=89%}
 
-## Organization – External Locations (continued 3)
+## Organization – External Locations 3
 
 ![](media/slide090_img1.png){width=94%}
 
@@ -59,7 +59,7 @@
 - Enable Is Auto Generated Location Code? if automatic code generation is required.
 - Enter or verify the Location Code.
 
-## Organization – External Locations (continued 4)
+## Organization – External Locations 4
 
 - Image and Notes
 - Upload the required Location Image if applicable.
@@ -69,7 +69,7 @@
 
 ![](media/slide091_img1.png){width=95%}
 
-## Organization – External Locations – Buildings
+## Buildings
 
 - The Buildings section is used to manage buildings associated with the selected external location.
 - This section supports:
@@ -88,7 +88,7 @@
 
 ![](media/slide092_img1.png){width=97%}
 
-## Organization – External Locations (continued 5)
+## Organization – External Locations 5
 
 **Address Information**
 - Enter:

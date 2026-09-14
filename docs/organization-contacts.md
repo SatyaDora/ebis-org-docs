@@ -9,7 +9,7 @@
 
 ![](media/slide096_img1.png){width=93%}
 
-## Organization – Contacts (continued)
+## Organization – Contacts 2
 
 - Create / Edit Contact.
 - Navigate to External Organizations → Contacts.
@@ -27,7 +27,7 @@
 
 ![](media/slide097_img1.png){width=94%}
 
-## Organization – Contacts (continued 3)
+## Organization – Contacts 3
 
 **Basic Information Section**
 - The Basic Information section is used to maintain primary contact and organizational details.
@@ -43,7 +43,7 @@
 
 ![](media/slide098_img1.png){width=94%}
 
-## Organization – Contacts (continued 4)
+## Organization – Contacts 4
 
 **Contact Details**
 - The Contact Details section is used to maintain address-related information for the contact.
@@ -58,7 +58,7 @@
 
 ![](media/slide100_img1.png){width=96%}
 
-## Organization – Contacts (continued 5)
+## Organization – Contacts 5
 
 **Contact Information Section**
 - The Contact Information section is used to maintain additional communication and contact-related information.
@@ -66,7 +66,7 @@
 
 ![](media/slide101_img1.png){width=98%}
 
-## Organization – Contacts (continued 6)
+## Organization – Contacts 6
 
 **Other Information Section**
 - The Other Information section is used to configure executive authority, leadership designation, and additional organizational details.
@@ -80,7 +80,7 @@
 
 ![](media/slide102_img1.png){width=95%}
 
-## Organization – Contacts (continued 7)
+## Organization – Contacts 7
 
 - Common Actions Reference
 - The following actions are common throughout the Contacts module:

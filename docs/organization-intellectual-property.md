@@ -39,7 +39,7 @@
 
 ![](media/slide040_img4.png){width=93%}
 
-## Intellectual Property – Edit Intellectual Property Details (continued)
+## Intellectual Property – Edit Intellectual Property Details 2
 
 **Documents Tab**
 - Use the Create New option to add a new document record. Upload or manage intellectual property-related supporting documents such as copyright certificates, trademark files, patent documents, agreements, or legal attachments. Click Save / Update to apply the changes.
@@ -53,7 +53,7 @@
 
 ![](media/slide041_img3.png){width=93%}
 
-## Intellectual Property – Edit Intellectual Property Details (continued 3)
+## Intellectual Property – Edit Intellectual Property Details 3
 
 **Inventors Tab**
 - Use the Create New option to associate inventor records with the intellectual property.
