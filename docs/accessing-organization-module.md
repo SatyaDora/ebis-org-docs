@@ -9,11 +9,11 @@
 - The selected widgets will be added automatically.
 - Drag and position the widgets to arrange and customize your dashboard layout.
 
-![](media/slide007_img1.png){width=84%}
+![](media/slide007_img1.png){width=93%}
 
-![](media/slide007_img2.png){width=83%}
+![](media/slide007_img2.png){width=93%}
 
-![](media/slide007_img3.png){width=76%}
+![](media/slide007_img3.png){width=90%}
 
 ## Accessing the Platform – Flow (continued)
 
@@ -26,4 +26,4 @@
 - Once logged in, you will see the ORSUS interface.
 - Select Organization Module from the Modules dropdown list.
 
-![](media/slide008_img1.png){width=88%}
+![](media/slide008_img1.png){width=95%}

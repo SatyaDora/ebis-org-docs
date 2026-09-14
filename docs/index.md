@@ -51,12 +51,12 @@ Simplified, Unified and Intuitive Console to Streamline IT Business Processes
 - Use the login credentials provided by your Organization.
 - Enter your username and password to access the EBIS Portal.
 
-![](media/slide005_img1.png){width=75%}
+![](media/slide005_img1.png){width=90%}
 
 - Connect via ORSUS
 - Once logged in, you will see the ORSUS interface.
 - Select Organization Module from the Modules dropdown list.
 
-![](media/slide005_img2.png){width=58%}
+![](media/slide005_img2.png){width=83%}
 
-![](media/slide005_img3.png){width=65%}
+![](media/slide005_img3.png){width=86%}

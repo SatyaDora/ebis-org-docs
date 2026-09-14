@@ -4,7 +4,7 @@
 
 - This section allows administrators to create and manage intellectual property records such as copyrights, patents, and trademarks. It helps track ownership details, application information, publication dates, renewals, assigned organizations, and related costs.
 
-![](media/slide038_img1.png){width=89%}
+![](media/slide038_img1.png){width=96%}
 
 ## Intellectual Property – Create New Record
 
@@ -19,7 +19,7 @@
 - Click Save to create the intellectual property record.
 - Click Save & New to immediately create another IP entry if required.
 
-![](media/slide039_img1.png){width=84%}
+![](media/slide039_img1.png){width=93%}
 
 ## Intellectual Property – Edit Intellectual Property Details
 
@@ -31,27 +31,27 @@
 - Verify the updated information carefully.
 - Click Save / Update to apply the changes.
 
-![](media/slide040_img1.png){width=83%}
+![](media/slide040_img1.png){width=93%}
 
-![](media/slide040_img2.png){width=62%}
+![](media/slide040_img2.png){width=84%}
 
-![](media/slide040_img3.png){width=64%}
+![](media/slide040_img3.png){width=85%}
 
-![](media/slide040_img4.png){width=84%}
+![](media/slide040_img4.png){width=93%}
 
 ## Intellectual Property – Edit Intellectual Property Details (continued)
 
 **Documents Tab**
 - Use the Create New option to add a new document record. Upload or manage intellectual property-related supporting documents such as copyright certificates, trademark files, patent documents, agreements, or legal attachments. Click Save / Update to apply the changes.
 
-![](media/slide041_img1.png){width=81%}
+![](media/slide041_img1.png){width=92%}
 
 **Costs Tab**
 - Use the Create New option to add a new cost record associated with the intellectual property. Maintain financial information such as Invoice Number, Invoice Date, PO Number, Payment Due Date, renewal charges, legal expenses, or maintenance costs. Click Save / Update to apply the changes.
 
-![](media/slide041_img2.png){width=83%}
+![](media/slide041_img2.png){width=93%}
 
-![](media/slide041_img3.png){width=83%}
+![](media/slide041_img3.png){width=93%}
 
 ## Intellectual Property – Edit Intellectual Property Details (continued 3)
 
@@ -65,13 +65,13 @@
 - Maintain attorney-related information such as Attorney Title, Organization Name, Engagement Start Date, and Engagement End Date.
 - Click Save / Update to apply the changes.
 
-![](media/slide042_img1.png){width=84%}
+![](media/slide042_img1.png){width=93%}
 
-![](media/slide042_img2.png){width=84%}
+![](media/slide042_img2.png){width=93%}
 
 **Attorney Interactions Tab**
 - Add or update details such as Conversation Date, Conversation Title, and Conversation Type.
 - Maintain communication history, legal follow-ups, and interaction tracking information wherever applicable.
 - Click Save to apply the changes.
 
-![](media/slide042_img3.png){width=85%}
+![](media/slide042_img3.png){width=94%}

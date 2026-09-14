@@ -11,7 +11,7 @@
 - Manage contacts, documents, domains, entitlements, and operational information
 - Track organization-related applications and issues.
 
-![](media/slide075_img1.png){width=84%}
+![](media/slide075_img1.png){width=93%}
 
 ## Organization – External Organizations (continued)
 
@@ -21,7 +21,7 @@
 - Organization → External Organizations
 - The system displays the External Organizations listing screen.
 
-![](media/slide076_img1.png){width=82%}
+![](media/slide076_img1.png){width=93%}
 
 - The listing screen displays all available external organization records in a searchable grid format.
 - The grid includes:
@@ -32,7 +32,7 @@
 - Website
 - Activation State
 
-![](media/slide076_img2.png){width=87%}
+![](media/slide076_img2.png){width=95%}
 
 ## Organization – External Organizations – Common Toolbar Actions
 
@@ -48,7 +48,7 @@
  - Open records in read-only mode.
  - Reload the latest data.
 
-![](media/slide077_img1.png){width=98%}
+![](media/slide077_img1.png){width=99%}
 
 ## Organization – External Organizations (continued 3)
 
@@ -64,9 +64,9 @@
  - Locate the Parent Organization field.
  - Search and select the required parent organization.
 
-![](media/slide078_img1.png){width=82%}
+![](media/slide078_img1.png){width=93%}
 
-![](media/slide078_img2.png){width=86%}
+![](media/slide078_img2.png){width=94%}
 
 ## Organization – External Organizations (continued 4)
 
@@ -83,7 +83,7 @@
  - Secondary Vertical
 - Review the generated organization ID and domain validation settings.
 
-![](media/slide079_img1.png){width=86%}
+![](media/slide079_img1.png){width=94%}
 
 ## Organization – External Organizations (continued 5)
 
@@ -98,7 +98,7 @@
 - Review all entered details carefully.
 - Click Save / Update to apply the changes.
 
-![](media/slide080_img1.png){width=85%}
+![](media/slide080_img1.png){width=94%}
 
 ## Organization – External Organizations (continued 6)
 
@@ -111,7 +111,7 @@
 - Enter the organization’s Market Cap value.
  - Select the appropriate currency and classification.
 
-![](media/slide081_img1.png){width=85%}
+![](media/slide081_img1.png){width=94%}
 
 ## Organization – External Organizations (continued 7)
 
@@ -126,7 +126,7 @@
 - Use the Notes section to enter any additional business remarks or references.
 - Click Save / Update to apply the changes.
 
-![](media/slide082_img1.png){width=87%}
+![](media/slide082_img1.png){width=95%}
 
 ## Organization – External Organizations (continued 8)
 
@@ -142,11 +142,11 @@
 - Verify all document information carefully.
 - Click Save / Update to apply the changes.
 
-![](media/slide083_img1.png){width=87%}
+![](media/slide083_img1.png){width=95%}
 
 ## Organization – External Organizations (continued 9)
 
-![](media/slide084_img1.png){width=87%}
+![](media/slide084_img1.png){width=95%}
 
 - Operational Function
 - Navigate to the Operational Function tab.
@@ -158,7 +158,7 @@
 - Review all operational function details carefully.
 - Click Save / Update to apply the changes.
 
-![](media/slide084_img2.png){width=81%}
+![](media/slide084_img2.png){width=92%}
 
 - SMTP Domains
 - Navigate to the SMTP Domains tab.
@@ -175,7 +175,7 @@
 - Review all entitlement configurations carefully.
 - Click Save / Update to apply the changes.
 
-![](media/slide085_img1.png){width=86%}
+![](media/slide085_img1.png){width=94%}
 
 - Issues
 - Navigate to the Issues tab.
@@ -188,7 +188,7 @@
 - Review all issue details carefully.
 - Click Save / Update to apply the changes.
 
-![](media/slide085_img2.png){width=86%}
+![](media/slide085_img2.png){width=94%}
 
 ## Organization – External Organizations (continued 11)
 
@@ -203,4 +203,4 @@
 - Review all entered information carefully.
 - Click Save / Update to apply the changes.
 
-![](media/slide086_img1.png){width=87%}
+![](media/slide086_img1.png){width=95%}

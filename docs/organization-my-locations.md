@@ -7,7 +7,7 @@
 - To access the My Locations, open the main navigation menu from the left panel
 - Navigate to My Locations.
 
-![](media/slide044_img1.png){width=86%}
+![](media/slide044_img1.png){width=94%}
 
 ## Organization – My Locations – Create New Location
 
@@ -25,9 +25,9 @@
 - Use the Notes section to capture additional information.
 - Click Save or Save & New.
 
-![](media/slide045_img1.png){width=82%}
+![](media/slide045_img1.png){width=93%}
 
-![](media/slide045_img2.png){width=82%}
+![](media/slide045_img2.png){width=93%}
 
 ## Organization – My Locations – Create New Location (continued)
 
@@ -37,7 +37,7 @@
 - Review all entered address and contact information carefully before saving.
 - Click Save / Update to apply the changes.
 
-![](media/slide046_img1.png){width=95%}
+![](media/slide046_img1.png){width=98%}
 
 ## Organization – My Locations – Create New Location (continued 3)
 
@@ -48,7 +48,7 @@
 - Review all entered information carefully before saving.
 - Click Save / Update to apply the changes.
 
-![](media/slide047_img1.png){width=89%}
+![](media/slide047_img1.png){width=96%}
 
 ## Organization – My Locations – Create New Location (continued 4)
 
@@ -59,7 +59,7 @@
 - Review all entered information carefully before saving.
 - Click Save / Update to apply the changes.
 
-![](media/slide048_img1.png){width=96%}
+![](media/slide048_img1.png){width=98%}
 
 ## Organization – My Locations – Create New Location (continued 5)
 
@@ -69,7 +69,7 @@
 - Verify that the correct files are attached before submission.
 - Click Save / Update to apply the changes.
 
-![](media/slide049_img1.png){width=96%}
+![](media/slide049_img1.png){width=98%}
 
 ## Organization – My Locations – Create New Location (continued 6)
 
@@ -79,7 +79,7 @@
 - Review all entered floor information carefully before saving.
 - Click Save / Update to apply the changes.
 
-![](media/slide050_img1.png){width=94%}
+![](media/slide050_img1.png){width=98%}
 
 ## Organization – My Locations – Edit Location Details
 
@@ -89,7 +89,7 @@
 - Modify the location image or notes if required.
 - Click Save / Update to apply the changes.
 
-![](media/slide051_img1.png){width=91%}
+![](media/slide051_img1.png){width=96%}
 
 ## Organization – My Locations – Edit Buildings
 
@@ -100,9 +100,9 @@
 - Enable the Is Primary option for the main building associated with the location if applicable.
 - Click Save / Save & New to apply the changes.
 
-![](media/slide052_img1.png){width=85%}
+![](media/slide052_img1.png){width=94%}
 
-![](media/slide052_img2.png){width=84%}
+![](media/slide052_img2.png){width=93%}
 
 ## Organization – My Locations – Edit Buildings (continued)
 
@@ -112,7 +112,7 @@
 - Review all entered address and contact information carefully before saving.
 - Click Save / Update to apply the changes.
 
-![](media/slide053_img1.png){width=93%}
+![](media/slide053_img1.png){width=97%}
 
 ## My Locations – Edit Location Details – Buildings
 
@@ -122,7 +122,7 @@
 - Update access configurations and related operational details based on business requirements.
 - Click Save / Update to apply the changes.
 
-![](media/slide054_img1.png){width=94%}
+![](media/slide054_img1.png){width=98%}
 
 ## My Locations – Edit Location Details – Buildings (continued)
 
@@ -133,7 +133,7 @@
 - Review all entered information carefully before saving.
 - Click Save / Update to apply the changes.
 
-![](media/slide055_img1.png){width=98%}
+![](media/slide055_img1.png){width=99%}
 
 ## My Locations – Edit Location Details – Buildings (continued 3)
 
@@ -143,14 +143,14 @@
 - Verify that the correct files are attached before submission.
 - Click Save / Update to apply the changes.
 
-![](media/slide056_img1.png){width=96%}
+![](media/slide056_img1.png){width=98%}
 
 ## My Locations – Edit Location Details – Buildings (continued 4)
 
 **Floors Tab**
 - Navigate to the Floors tab. Create and manage floor records associated with the selected building. Maintain floor-related information such as floor identification, numbering, and associated operational details. Review all entered floor information carefully before saving. Click Save / Update to apply the changes.
 
-![](media/slide057_img1.png){width=87%}
+![](media/slide057_img1.png){width=95%}
 
 ## My Locations – Buildings – Floors
 
@@ -167,7 +167,7 @@
  - Maximum Workspaces
  - Floor DL Email Address
 
-![](media/slide058_img1.png){width=87%}
+![](media/slide058_img1.png){width=95%}
 
 ## My Locations – Buildings – Floors (continued)
 
@@ -180,4 +180,4 @@
  - Fully Occupied
 - Click Save to create the floor record.
 
-![](media/slide059_img1.png){width=93%}
+![](media/slide059_img1.png){width=97%}

@@ -7,7 +7,7 @@
 - Navigation Path
 - External Organizations → Contacts
 
-![](media/slide096_img1.png){width=84%}
+![](media/slide096_img1.png){width=93%}
 
 ## Organization – Contacts (continued)
 
@@ -25,7 +25,7 @@
 - Review all information carefully.
 - Click Save / Update.
 
-![](media/slide097_img1.png){width=86%}
+![](media/slide097_img1.png){width=94%}
 
 ## Organization – Contacts (continued 3)
 
@@ -41,7 +41,7 @@
  - Role in Organization
  - Organizational Title
 
-![](media/slide098_img1.png){width=86%}
+![](media/slide098_img1.png){width=94%}
 
 ## Organization – Contacts (continued 4)
 
@@ -56,7 +56,7 @@
 - Address Line 2.
 - Address Line 3.
 
-![](media/slide100_img1.png){width=90%}
+![](media/slide100_img1.png){width=96%}
 
 ## Organization – Contacts (continued 5)
 
@@ -64,7 +64,7 @@
 - The Contact Information section is used to maintain additional communication and contact-related information.
 - Users can expand this section to enter supplementary communication details as required by organizational standards.
 
-![](media/slide101_img1.png){width=94%}
+![](media/slide101_img1.png){width=98%}
 
 ## Organization – Contacts (continued 6)
 
@@ -78,7 +78,7 @@
 - Upload contact images.
 - Add operational notes.
 
-![](media/slide102_img1.png){width=88%}
+![](media/slide102_img1.png){width=95%}
 
 ## Organization – Contacts (continued 7)
 

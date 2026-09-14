@@ -14,9 +14,9 @@
  - Edit existing records
  - Delete records if permitted
 
-![](media/slide088_img1.png){width=84%}
+![](media/slide088_img1.png){width=93%}
 
-![](media/slide088_img2.png){width=87%}
+![](media/slide088_img2.png){width=95%}
 
 ## Organization – External Locations (continued)
 
@@ -34,13 +34,13 @@
  - Location Email Address
 - Enable the Head Quarters option if the location is the organization’s headquarters.
 
-![](media/slide089_img1.png){width=87%}
+![](media/slide089_img1.png){width=95%}
 
-![](media/slide089_img2.png){width=74%}
+![](media/slide089_img2.png){width=89%}
 
 ## Organization – External Locations (continued 3)
 
-![](media/slide090_img1.png){width=85%}
+![](media/slide090_img1.png){width=94%}
 
 **Address Information**
 - Enter:
@@ -67,7 +67,7 @@
 - Review all entered information carefully.
 - Click Save / Update to apply the changes.
 
-![](media/slide091_img1.png){width=87%}
+![](media/slide091_img1.png){width=95%}
 
 ## Organization – External Locations – Buildings
 
@@ -86,7 +86,7 @@
  - Delete building records
 - Review all information before proceeding.
 
-![](media/slide092_img1.png){width=93%}
+![](media/slide092_img1.png){width=97%}
 
 ## Organization – External Locations (continued 5)
 
@@ -101,7 +101,7 @@
  - City
  - ZIP Code
 
-![](media/slide094_img1.png){width=89%}
+![](media/slide094_img1.png){width=96%}
 
 **Operational Information**
 - Enter the Location Head information.

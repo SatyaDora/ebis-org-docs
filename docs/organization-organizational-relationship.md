@@ -4,7 +4,7 @@
 
 - This section is used to create and manage relationships between organizations such as customers, subsidiaries, vendors, partners, or service providers. It helps maintain business associations, contract relationships, and organizational hierarchy information.
 
-![](media/slide034_img1.png){width=82%}
+![](media/slide034_img1.png){width=93%}
 
 ## Organizational Relationship – Edit/Modify Relationship Details
 
@@ -23,6 +23,6 @@
 - View – Opens the selected relationship record in read-only mode for review purposes.
 - Refresh – Reloads and displays the latest available records in the list view.
 
-![](media/slide036_img1.png){width=96%}
+![](media/slide036_img1.png){width=98%}
 
-![](media/slide036_img2.png){width=96%}
+![](media/slide036_img2.png){width=98%}

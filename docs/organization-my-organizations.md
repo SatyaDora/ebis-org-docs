@@ -8,7 +8,7 @@
 - Select My Organizations from the submenu.
 - The My Organizations screen displays the list of all configured organization records within the platform
 
-![](media/slide010_img1.png){width=97%}
+![](media/slide010_img1.png){width=99%}
 
 ## Organization – My Organizations – Create Organization
 
@@ -18,9 +18,9 @@
 - Select the Validate Domains option if domain validation is required.
 - Select the Publicly Traded checkbox if the organization is publicly listed.
 
-![](media/slide011_img1.png){width=95%}
+![](media/slide011_img1.png){width=98%}
 
-![](media/slide011_img2.png){width=98%}
+![](media/slide011_img2.png){width=99%}
 
 ## Organization – My Organizations – Create Organization (continued)
 
@@ -32,7 +32,7 @@
 - Click Save to create the organization record.
 - Click Save & New to save the current record and create another organization.
 
-![](media/slide012_img1.png){width=87%}
+![](media/slide012_img1.png){width=95%}
 
 ## Organization – My Organizations – Create Organization (continued 3)
 
@@ -44,14 +44,14 @@
 - In the Other Details section, update the required custom fields and organization-specific information.
 - Modify password or confidential fields carefully to maintain data accuracy and security.
 
-![](media/slide013_img1.png){width=87%}
+![](media/slide013_img1.png){width=95%}
 
 - Trade Listing tab.
 - Update the required trade-related details and listing information.
 - Review the entered values carefully.
 - Click Save / Update to apply the changes.
 
-![](media/slide013_img2.png){width=87%}
+![](media/slide013_img2.png){width=95%}
 
 ## Organization – My Organizations – Create Organization (continued 4)
 
@@ -66,16 +66,16 @@
 - Verify password confirmation fields wherever applicable.
 - Click Save / Update to apply the changes.
 
-![](media/slide014_img1.png){width=84%}
+![](media/slide014_img1.png){width=93%}
 
 - Documents tab.
 - Upload, replace, or manage the required organization documents.
 - Verify that the correct files are attached.
 - Click Save / Update to apply the changes.
 
-![](media/slide014_img2.png){width=84%}
+![](media/slide014_img2.png){width=93%}
 
-![](media/slide014_img3.png){width=84%}
+![](media/slide014_img3.png){width=93%}
 
 ## Organization – My Organizations – Create Organization (continued 5)
 
@@ -86,7 +86,7 @@
 - Click OK to associate the selected SMTP domain with the organization.
 - Click Save / Update to apply the changes.
 
-![](media/slide015_img1.png){width=92%}
+![](media/slide015_img1.png){width=97%}
 
 ## My Organizations – Create Organization – Settings Features
 
@@ -101,7 +101,7 @@
 - Prepare security and access configurations
 - Maintain organization-specific administrative settings.
 
-![](media/slide016_img1.png){width=88%}
+![](media/slide016_img1.png){width=95%}
 
 ## My Organizations – Create Organization – List Values
 
@@ -116,7 +116,7 @@
 - Verify the configured information.
 - Click Save / Update.
 
-![](media/slide017_img1.png){width=96%}
+![](media/slide017_img1.png){width=98%}
 
 ## My Organizations – Create Organization – Custom Fields
 
@@ -131,7 +131,7 @@
 - Enable the Required option if the field must be mandatory.
 - Click Save.
 
-![](media/slide018_img1.png){width=84%}
+![](media/slide018_img1.png){width=93%}
 
 ## My Organizations – Edit Organization – Settings Features
 
@@ -149,7 +149,7 @@
 - Prepare security and access configurations
 - Maintain organization-specific administrative settings.
 
-![](media/slide019_img1.png){width=88%}
+![](media/slide019_img1.png){width=95%}
 
 ## My Organizations – Organization – My Organizations
 
@@ -163,9 +163,9 @@
 - Click Save to create the license record.
 - Click Save & New to save the current record and immediately create another license entry if required.
 
-![](media/slide020_img1.png){width=87%}
+![](media/slide020_img1.png){width=95%}
 
-![](media/slide020_img2.png){width=87%}
+![](media/slide020_img2.png){width=95%}
 
 ## Organization – My Organizations (continued)
 
@@ -179,11 +179,11 @@
 - Enable the Publicly Traded checkbox if the organization is listed on a public stock exchange.
 - Click Save / Update to apply the changes.
 
-![](media/slide021_img1.png){width=91%}
+![](media/slide021_img1.png){width=96%}
 
-![](media/slide021_img2.png){width=69%}
+![](media/slide021_img2.png){width=87%}
 
-![](media/slide021_img3.png){width=74%}
+![](media/slide021_img3.png){width=89%}
 
 ## Organization – My Organizations (continued 3)
 
@@ -193,7 +193,7 @@
 - Enable the Publicly Traded checkbox if the organization is listed on a public stock exchange.
 - Click Save / Update to apply the changes.
 
-![](media/slide022_img1.png){width=89%}
+![](media/slide022_img1.png){width=96%}
 
 ## Organization – My Organizations (continued 4)
 
@@ -208,7 +208,7 @@
 - Click Save to create the document record.
 - Click Save & New to save the current document and immediately upload another document if required.
 
-![](media/slide023_img1.png){width=88%}
+![](media/slide023_img1.png){width=95%}
 
 ## Organization – My Organizations (continued 5)
 
@@ -222,7 +222,7 @@
 - Click Save to create the trade listing record.
 - Click Save & New to save the current record and immediately create another trade listing entry if required.
 
-![](media/slide024_img1.png){width=87%}
+![](media/slide024_img1.png){width=95%}
 
 ## My Organizations – Edit Organization
 
@@ -234,11 +234,11 @@
 - Modify details such as: Organization Name, Website, Phone Numbers, Parent Organization, Resolver Group, Number of Locations, Publicly Traded option.
 - Click Save / Update to apply the changes.
 
-![](media/slide025_img1.png){width=91%}
+![](media/slide025_img1.png){width=96%}
 
-![](media/slide025_img2.png){width=69%}
+![](media/slide025_img2.png){width=87%}
 
-![](media/slide025_img3.png){width=74%}
+![](media/slide025_img3.png){width=89%}
 
 ## My Organizations – Edit Organization – List Values
 
@@ -251,7 +251,7 @@
 - Update the required information.
 - Click Save / Update.
 
-![](media/slide026_img1.png){width=94%}
+![](media/slide026_img1.png){width=98%}
 
 ## My Organizations – Edit Organization – Custom Fields
 
@@ -279,9 +279,9 @@
 - Verify the permission configuration.
 - Click Set Permissions / Save.
 
-![](media/slide028_img1.png){width=84%}
+![](media/slide028_img1.png){width=93%}
 
-![](media/slide028_img2.png){width=84%}
+![](media/slide028_img2.png){width=93%}
 
 ## My Organizations – Clone Organization
 
@@ -292,7 +292,7 @@
 - Verify the information before saving.
 - Click Save / Create.
 
-![](media/slide029_img1.png){width=86%}
+![](media/slide029_img1.png){width=94%}
 
 ## My Organizations – Delete Organization
 
@@ -302,7 +302,7 @@
 - In the confirmation message, verify the selected organization details.
 - Click Confirm / Delete to permanently remove the organization.
 
-![](media/slide030_img1.png){width=97%}
+![](media/slide030_img1.png){width=99%}
 
 ## My Organizations – View Organization
 
@@ -323,4 +323,4 @@
 - Click the Refresh icon from the top toolbar.
 - The system refreshes the organization list and displays the latest available records.
 
-![](media/slide032_img1.png){width=97%}
+![](media/slide032_img1.png){width=99%}

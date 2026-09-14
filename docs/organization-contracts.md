@@ -15,9 +15,9 @@
  - My Organization Name
 - Use the available search and filter options to locate the required contract record.
 
-![](media/slide061_img1.png){width=79%}
+![](media/slide061_img1.png){width=91%}
 
-![](media/slide061_img2.png){width=87%}
+![](media/slide061_img2.png){width=95%}
 
 ## Organization – Contracts – Common Toolbar Actions
 
@@ -28,7 +28,7 @@
  - Delete contract records
  - Refresh the list view
 
-![](media/slide062_img1.png){width=87%}
+![](media/slide062_img1.png){width=95%}
 
 ## Organization – Contracts (continued)
 
@@ -42,9 +42,9 @@
  - Contract Type
  - Internal Contract Number
 
-![](media/slide063_img1.png){width=83%}
+![](media/slide063_img1.png){width=93%}
 
-![](media/slide063_img2.png){width=87%}
+![](media/slide063_img2.png){width=95%}
 
 ## Organization – Contracts (continued 3)
 
@@ -57,7 +57,7 @@
 - Review all entered details carefully.
 - Click Save to create the contract record.
 
-![](media/slide064_img1.png){width=86%}
+![](media/slide064_img1.png){width=94%}
 
 ## Organization – Contracts (continued 4)
 
@@ -68,7 +68,7 @@
 - Review all configured relationships carefully before saving.
 - Click Save / Update to apply the changes.
 
-![](media/slide065_img1.png){width=89%}
+![](media/slide065_img1.png){width=96%}
 
 ## Organization – Contracts (continued 5)
 
@@ -81,7 +81,7 @@
 - Review all configured information carefully before saving.
 - Click Save / Update to apply the changes.
 
-![](media/slide066_img1.png){width=88%}
+![](media/slide066_img1.png){width=95%}
 
 ## Organization – Contracts (continued 6)
 
@@ -97,7 +97,7 @@
 - Review all recipient information carefully before saving.
 - Click Save / Update to apply the changes.
 
-![](media/slide067_img1.png){width=93%}
+![](media/slide067_img1.png){width=97%}
 
 ## Organization – Contracts (continued 7)
 
@@ -108,7 +108,7 @@
 - Optionally enter additional comments in the Notes section.
 - Save the record.
 
-![](media/slide068_img1.png){width=84%}
+![](media/slide068_img1.png){width=93%}
 
 ## Organization – Contracts (continued 8)
 
@@ -125,7 +125,7 @@
 - Review all document information carefully before saving.
 - Click Save / Update to apply the changes.
 
-![](media/slide069_img1.png){width=93%}
+![](media/slide069_img1.png){width=97%}
 
 ## Organization – Contracts (continued 9)
 
@@ -138,7 +138,7 @@
 - Optionally enter additional notes.
 - Click Save to attach the document to the contract.
 
-![](media/slide070_img1.png){width=84%}
+![](media/slide070_img1.png){width=93%}
 
 ## Organization – Contracts (continued 10)
 
@@ -154,9 +154,9 @@
 - Modify Notes where necessary.
 - Click Save to apply the changes.
 
-![](media/slide071_img1.png){width=75%}
+![](media/slide071_img1.png){width=90%}
 
-![](media/slide071_img2.png){width=84%}
+![](media/slide071_img2.png){width=93%}
 
 ## Organization – Edit Contract
 
@@ -169,9 +169,9 @@
 - Update the required information in the available sections and tabs.
 - Click Save / Update to apply the changes.
 
-![](media/slide072_img1.png){width=88%}
+![](media/slide072_img1.png){width=95%}
 
-![](media/slide072_img2.png){width=84%}
+![](media/slide072_img2.png){width=93%}
 
 ## Organization – Edit Contract (continued)
 
@@ -187,6 +187,6 @@
 - Add or update information in the Notes section as needed.
 - Click Save to apply the changes.
 
-![](media/slide073_img1.png){width=77%}
+![](media/slide073_img1.png){width=91%}
 
-![](media/slide073_img2.png){width=77%}
+![](media/slide073_img2.png){width=91%}
