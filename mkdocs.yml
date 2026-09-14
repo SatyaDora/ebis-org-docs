@@ -17,7 +17,17 @@ theme:
     - search.highlight
 
 nav:
-  - Organization Module Training: index.md
+  - Home: index.md
+  - Getting Started: accessing-organization-module.md
+  - My Organizations: organization-my-organizations.md
+  - Relationships: organization-organizational-relationship.md
+  - IP Records: organization-intellectual-property.md
+  - Locations: organization-my-locations.md
+  - Contracts: organization-contracts.md
+  - External Orgs: organization-external-organizations.md
+  - External Locations: organization-external-locations.md
+  - Contacts: organization-contacts.md
+  - Admin – General: organization-administration-general.md
 
 markdown_extensions:
   # CRITICAL: this renders the {width=44%} image attributes from the
