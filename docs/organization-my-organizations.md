@@ -1,7 +1,5 @@
 # Organization – My Organizations
 
-## Organization – My Organizations
-
 - Navigate to My Organizations.
 - To access the My Organizations module, open the main navigation menu from the left panel.
 - Navigate to Organization.

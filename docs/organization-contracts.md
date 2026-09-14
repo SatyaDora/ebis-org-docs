@@ -1,8 +1,6 @@
 # Organization – Contracts
 
-## Organization – Contracts
-
-- The Contracts module allows administrators to create, manage, and maintain contract records associated with organizations, vendors, customers, or business entities. This section helps maintain contract lifecycle information including contract duration, contract value, renewal terms, superseding contracts, extension rules, recipients, and supporting contract documents.
+The Contracts module allows administrators to create, manage, and maintain contract records associated with organizations, vendors, customers, or business entities. This section helps maintain contract lifecycle information including contract duration, contract value, renewal terms, superseding contracts, extension rules, recipients, and supporting contract documents.
 
 **Contracts – Manage Contract Records**
 

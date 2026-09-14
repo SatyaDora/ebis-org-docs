@@ -1,8 +1,6 @@
 # Organization – Contacts
 
-## Organization – Contacts
-
-- The Contacts section is used to create and maintain contact records associated with external organizations. Users can store personal, organizational, communication, and authority-related information for business contacts.
+The Contacts section is used to create and maintain contact records associated with external organizations. Users can store personal, organizational, communication, and authority-related information for business contacts.
 
 - Navigation Path
 - External Organizations → Contacts

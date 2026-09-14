@@ -1,8 +1,6 @@
 # Organization – Administration – General
 
-## Organization – Administration – General
-
-- The Domains section is used to maintain domain registration and SMTP-related configuration details within the Administration module.
+The Domains section is used to maintain domain registration and SMTP-related configuration details within the Administration module.
 
 - Users can:
 - Create and manage organizational domains.

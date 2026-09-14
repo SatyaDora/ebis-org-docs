@@ -1,7 +1,5 @@
 # Organization – External Organizations
 
-## Organization – External Organizations
-
 - The External Organizations module is used to create, manage, and maintain information related to third-party organizations, vendors, partners, subsidiaries, clients, and associated business entities.
 
 - Once users navigate to External Organizations section, they can:

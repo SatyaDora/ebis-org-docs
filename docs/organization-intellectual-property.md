@@ -1,8 +1,6 @@
 # Organization – Intellectual Property
 
-## Organization – Intellectual Property
-
-- This section allows administrators to create and manage intellectual property records such as copyrights, patents, and trademarks. It helps track ownership details, application information, publication dates, renewals, assigned organizations, and related costs.
+This section allows administrators to create and manage intellectual property records such as copyrights, patents, and trademarks. It helps track ownership details, application information, publication dates, renewals, assigned organizations, and related costs.
 
 ![](media/slide038_img1.png){width=96%}
 

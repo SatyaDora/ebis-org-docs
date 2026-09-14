@@ -1,8 +1,6 @@
 # Organization – Organizational Relationship
 
-## Organization – Organizational Relationship
-
-- This section is used to create and manage relationships between organizations such as customers, subsidiaries, vendors, partners, or service providers. It helps maintain business associations, contract relationships, and organizational hierarchy information.
+This section is used to create and manage relationships between organizations such as customers, subsidiaries, vendors, partners, or service providers. It helps maintain business associations, contract relationships, and organizational hierarchy information.
 
 ![](media/slide034_img1.png){width=93%}
 

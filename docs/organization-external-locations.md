@@ -1,7 +1,5 @@
 # Organization – External Locations
 
-## Organization – External Locations
-
 - Navigate to External Organizations → External Locations.
 - Review the list of available external locations.
 - Use the available filters to search by:
