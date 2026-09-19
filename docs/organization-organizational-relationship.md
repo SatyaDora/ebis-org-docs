@@ -4,7 +4,7 @@ This section is used to create and manage relationships between organizations su
 
 ![](media/slide034_img1.png){width=93%}
 
-## Organizational Relationship – Edit/Modify Relationship Details
+## Edit/Modify Relationship Details
 
 - Navigate to Organization > Organizational Relationship.
 - Select the required relationship record from the list view.
@@ -13,9 +13,8 @@ This section is used to create and manage relationships between organizations su
 - Verify the updated information for accuracy.
 - Click Save / Update to apply the changes.
 
-## Organizational Relationship – Common Toolbar Actions
-
-- The Organizational Relationship section supports common toolbar actions similar to the My Organizations module.
+## Common Toolbar Actions
+The Organizational Relationship section supports common toolbar actions similar to the My Organizations module.
 - Clone – Creates a duplicate copy of the selected relationship record for quicker record creation.
 - Delete – Removes the selected organizational relationship record from the system.
 - View – Opens the selected relationship record in read-only mode for review purposes.
