@@ -1,7 +1,6 @@
-# Organization – My Organizations
+# My Organizations
 
-- Navigate to My Organizations.
-- To access the My Organizations module, open the main navigation menu from the left panel.
+To access the My Organizations module, open the main navigation menu from the left panel:
 - Navigate to Organization.
 - Select My Organizations from the submenu.
 - The My Organizations screen displays the list of all configured organization records within the platform
@@ -10,7 +9,7 @@
 
 ## Create Organization
 
-- To create a new organization:
+To create a new organization:
 - Click the Create icon from the top toolbar.
 - In the Basic Information tab, enter the required organization details such as Organization Name, Parent Organization, Website, Resolver Group, Phone Numbers, and Number of Locations.
 - Select the Validate Domains option if domain validation is required.
@@ -20,7 +19,7 @@
 
 ![](media/slide011_img2.png){width=99%}
 
-## Create Organization 2
+### Incorporation Details
 
 - Click the Incorporation Details tab.
 - Enter incorporation details such as Incorporation Name, Incorporation Type, Incorporation Status, Country, State, Incorporation Number, Incorporation Date, Fees, and Costs.
@@ -32,9 +31,9 @@
 
 ![](media/slide012_img1.png){width=95%}
 
-## Create Organization 3
+### License Details
 
-- Under the License Details tab, review or update:
+Under the License Details tab, review or update:
  - License Name
  - License Type
  - License Status
@@ -44,16 +43,18 @@
 
 ![](media/slide013_img1.png){width=95%}
 
-- Trade Listing tab.
+### Trade Listing
+
+In Trade Listing tab.
 - Update the required trade-related details and listing information.
 - Review the entered values carefully.
 - Click Save / Update to apply the changes.
 
 ![](media/slide013_img2.png){width=95%}
 
-## Create Organization 4
+### Other Details
 
-- Other Details tab.
+in Other Details tab.
 - Update the required custom fields such as:
  - Name fields
  - Identification or Roll Number fields
@@ -66,7 +67,9 @@
 
 ![](media/slide014_img1.png){width=93%}
 
-- Documents tab.
+### Documents
+
+In Documents tab,
 - Upload, replace, or manage the required organization documents.
 - Verify that the correct files are attached.
 - Click Save / Update to apply the changes.
@@ -75,8 +78,9 @@
 
 ![](media/slide014_img3.png){width=93%}
 
-## Create Organization 5
+### SMTP Domains
 
+In SMTP Domains tab,
 - Click the option to add or select SMTP domains.
 - In the Select SMTP Domain Name window, choose the required SMTP domain from the available list.
 - Use the search or filter option to locate a specific domain if required.
@@ -86,9 +90,9 @@
 
 ![](media/slide015_img1.png){width=97%}
 
-## My Organizations – Create Organization – Settings Features
+## Create Organization – Settings
 
-- The Settings options in Create Organization allow administrators to prepare and configure additional organization-related controls before or after saving the organization record.
+The Settings options in Create Organization allow administrators to prepare and configure additional organization-related controls before or after saving the organization record.
 
 - Key Settings Features
 - List Values
@@ -101,11 +105,11 @@
 
 ![](media/slide016_img1.png){width=95%}
 
-## My Organizations – Create Organization – List Values
+### List Values
 
-- The List Values option is used to manage predefined dropdown values used across organization forms and fields.
+The List Values option is used to manage predefined dropdown values used across organization forms and fields.
 
-- To configure list values during organization setup, open the Settings menu.
+To configure list values during organization setup, open the Settings menu:
 - Select List Values.
 - In the List Values screen, locate the required category or field.
 - Click Add New to create a new list value.
@@ -116,11 +120,10 @@
 
 ![](media/slide017_img1.png){width=98%}
 
-## My Organizations – Create Organization – Custom Fields
+### Custom Fields
 
-- Settings – Custom Fields
-- The Custom Fields option is used to create additional fields dynamically for the organization module.
-- To create a custom field, open the Settings menu. Select Custom Fields.
+The Custom Fields option is used to create additional fields dynamically for the organization module.
+To create a custom field, open the Settings menu. Select Custom Fields.
 - Click Add New.
 - Enter the Field Name and Label Name.
 - Select the required Field Type.
@@ -131,27 +134,9 @@
 
 ![](media/slide018_img1.png){width=93%}
 
-## My Organizations – Edit Organization – Settings Features
+## Add License Record
 
-- The Settings options in Create Organization allow administrators to prepare and configure additional organization-related controls before or after saving the organization record.
-
-- Key Settings Features
-- List Values
-- Custom Fields
-- Record Level Security
-- Important Note
-- Some Settings features become fully functional only after the organization record is saved successfully.
-- Administrator Responsibilities
-- Configure predefined dropdown values.
-- Define additional organization fields
-- Prepare security and access configurations
-- Maintain organization-specific administrative settings.
-
-![](media/slide019_img1.png){width=95%}
-
-## My Organizations – Organization – My Organizations
-
-- To create any additional tab for a particular child category of basic or information or Incorporation Details sections (in this case, it’s the License Details tab):
+To create any additional tab for a particular child category of basic or information or Incorporation Details sections (in this case, it’s the License Details tab):
 - Click Add New to open the Create License Details screen.
 - Enter the required information such as:
  - Organization Name
@@ -185,7 +170,7 @@
 
 ## Organization – My Organizations 3
 
-- In the edit screen, update the required fields under the Incorporation Details.
+In the edit screen, update the required fields under the Incorporation Details.
 - Modify details such as: Incorporation Type, Incorporation Country, Incorporation Number, Incorporation Fees, Incorporation Status, Incorporation Date, Consultancy Information.
 - Use the Validate Domains option to verify whether the organization’s domain information is valid.
 - Enable the Publicly Traded checkbox if the organization is listed on a public stock exchange.
@@ -238,9 +223,27 @@
 
 ![](media/slide025_img3.png){width=89%}
 
-## My Organizations – Edit Organization – List Values
+### Settings Features
 
-- The List Values option allows administrators to update and maintain predefined dropdown values associated with organization records.
+The Settings options in Edit Organization allow administrators to prepare and configure additional organization-related controls before or after saving the organization record.
+
+**Key Settings Features**
+- List Values
+- Custom Fields
+- Record Level Security
+- Important Note
+- Some Settings features become fully functional only after the organization record is saved successfully.
+- Administrator Responsibilities
+- Configure predefined dropdown values.
+- Define additional organization fields
+- Prepare security and access configurations
+- Maintain organization-specific administrative settings.
+
+![](media/slide019_img1.png){width=95%}
+
+### List Values
+
+The List Values option allows administrators to update and maintain predefined dropdown values associated with organization records.
 
 - To modify existing list values:
 - Open the Settings menu from the organization screen. Select List Values.
@@ -251,9 +254,9 @@
 
 ![](media/slide026_img1.png){width=98%}
 
-## My Organizations – Edit Organization – Custom Fields
+### Custom Fields
 
-- The Custom Fields option is used to manage additional organization fields and update existing field configurations.
+The Custom Fields option is used to manage additional organization fields and update existing field configurations.
 
 - To update custom fields for organizations:
 - Open the Settings menu.
@@ -264,9 +267,9 @@
 - Verify the updated configuration.
 - Click Save.
 
-## My Organizations – Edit Organization – Record Level Security
+### Record Level Security
 
-- The Record Level Security option allows administrators to manage organization access permissions for users and application roles.
+The Record Level Security option allows administrators to manage organization access permissions for users and application roles.
 
 - To update organization access permissions, open the Settings menu.
 - Select Record Level Security.
@@ -283,7 +286,7 @@
 
 ## My Organizations – Clone Organization
 
-- To duplicate an existing organization record:
+To duplicate an existing organization record:
 - Select the required organization from the list.
 - Click the Clone icon from the top toolbar.
 - In the clone screen, modify the copied organization details as required.
@@ -294,7 +297,7 @@
 
 ## My Organizations – Delete Organization
 
-- To remove an organization record:
+To remove an organization record:
 - Select the required organization from the list.
 - Click the Delete icon from the top toolbar.
 - In the confirmation message, verify the selected organization details.
@@ -304,7 +307,7 @@
 
 ## My Organizations – View Organization
 
-- To view organization details, select the required organization record from the list.
+To view organization details, select the required organization record from the list.
 - Click the View icon from the top toolbar. The system displays all configured information in read-only mode, including:
 **Basic Information**
 **Incorporation Details**
@@ -317,7 +320,7 @@
 
 ## My Organizations – Refresh Organization List
 
-- To reload the organization records displayed on the screen:
+To reload the organization records displayed on the screen:
 - Click the Refresh icon from the top toolbar.
 - The system refreshes the organization list and displays the latest available records.
 
