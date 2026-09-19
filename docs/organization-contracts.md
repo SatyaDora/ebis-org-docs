@@ -2,10 +2,10 @@
 
 The Contracts module allows administrators to create, manage, and maintain contract records associated with organizations, vendors, customers, or business entities. This section helps maintain contract lifecycle information including contract duration, contract value, renewal terms, superseding contracts, extension rules, recipients, and supporting contract documents.
 
-**Contracts – Manage Contract Records**
+## Manage Contract Records
 
 - Navigate to Contracts > Contracts.
-- The Contracts list screen displays all available contract records along with important details such as:
+The Contracts list screen displays all available contract records along with important details such as:
  - Contract Name
  - Internal Contract Number
  - Contract Type
@@ -28,10 +28,9 @@ The Contracts module allows administrators to create, manage, and maintain contr
 
 ![](media/slide062_img1.png){width=95%}
 
-## Organization – Contracts 2
+## Create a New Contract
 
-- To create a new Contract:
-- In the Contracts listing screen, click Create New from the top toolbar.
+In the Contracts listing screen, click Create New from the top toolbar.
 - The Create Contract screen is displayed.
 - Enter the required contract information in the Basic Information section such as:
  - Contract Name
@@ -44,9 +43,9 @@ The Contracts module allows administrators to create, manage, and maintain contr
 
 ![](media/slide063_img2.png){width=95%}
 
-## Organization – Contracts 3
+## Contract Details
 
-- After clicking Save, the remaining contract sections will appear as shown below. Configure these sections using the available tabs:
+After clicking Save, the remaining contract sections will appear as shown below. Configure these sections using the available tabs:
 **Contract Details**
  - Information
 **Other Information**
@@ -57,9 +56,9 @@ The Contracts module allows administrators to create, manage, and maintain contr
 
 ![](media/slide064_img1.png){width=94%}
 
-## Organization – Contracts 4
+## Information Tab
 
-- Information Tab. The Parent Contract and Superseding Contract options are useful when:
+The Parent Contract and Superseding Contract options are useful when:
 - A contract replaces an older agreement
 - Additional amendments are added.
 - Contracts are renewed or renegotiated
@@ -68,10 +67,9 @@ The Contracts module allows administrators to create, manage, and maintain contr
 
 ![](media/slide065_img1.png){width=96%}
 
-## Organization – Contracts 5
+## Other Information Tab
 
-**Other Information Tab**
-- This section helps organizations:
+This section helps organizations:
  - Manage renewal flexibility
  - Define termination rules
  - Configure financial penalties.
@@ -81,11 +79,10 @@ The Contracts module allows administrators to create, manage, and maintain contr
 
 ![](media/slide066_img1.png){width=95%}
 
-## Organization – Contracts 6
+## Request Recipients Tab
 
-**Request Recipients Tab**
 - Navigate to the Request Recipients tab.
-- This section is used to maintain signer and recipient information associated with the contract approval or signing process.
+This section is used to maintain signer and recipient information associated with the contract approval or signing process.
 - Users can:
  - Add recipient records.
  - Maintain signer organization details.
@@ -97,9 +94,8 @@ The Contracts module allows administrators to create, manage, and maintain contr
 
 ![](media/slide067_img1.png){width=97%}
 
-## Organization – Contracts 7
+## Configure Request Recipients
 
-- To Configure Request Recipients
 - Open the Request Recipients tab.
 - Click the lookup icon beside Contract Signer Organization and select the appropriate organization.
 - Click the lookup icon beside Contract Signed By and select the individual authorized to sign the contract.
@@ -108,11 +104,10 @@ The Contracts module allows administrators to create, manage, and maintain contr
 
 ![](media/slide068_img1.png){width=93%}
 
-## Organization – Contracts 8
+## Contract Document Tab
 
-**Contract Document Tab**
 - Navigate to the Contract Document tab.
-- This section is used to maintain documents associated with the selected contract.
+This section is used to maintain documents associated with the selected contract.
 - Users can:
 - Upload supporting contract documents.
 - Maintain document version information.
@@ -125,9 +120,9 @@ The Contracts module allows administrators to create, manage, and maintain contr
 
 ![](media/slide069_img1.png){width=97%}
 
-## Organization – Contracts 9
+## Contract Document
 
-- To Upload a Contract Document:
+To Upload a Contract Document:
 - Open the Contract Document tab.
 - Enter a Document Title.
 - Specify the Document Version Number.
@@ -138,28 +133,11 @@ The Contracts module allows administrators to create, manage, and maintain contr
 
 ![](media/slide070_img1.png){width=93%}
 
-## Organization – Contracts 10
+## Edit / Modify Contract
 
-- Edit Contract
-- The Edit Contract screen allows users to update existing contract information throughout the contract lifecycle.
+The Edit Contract screen is organized into multiple tabs to logically separate contract-related information and improve maintainability.
 
-- To Edit a Contract:
-- Navigate to Contracts > Contracts.
-- Select the required contract record.
-- Click the Edit icon.
-- Review the existing contract information across all tabs.
-- Update contract details, notification settings, signer information, or supporting documents as required.
-- Modify Notes where necessary.
-- Click Save to apply the changes.
-
-![](media/slide071_img1.png){width=90%}
-
-![](media/slide071_img2.png){width=93%}
-
-## Organization – Edit Contract
-
-- Edit / Modify Contract. The Edit Contract screen is organized into multiple tabs to logically separate contract-related information and improve maintainability.
-- To edit a contract:
+To edit a contract:
 - Navigate to Organization → Contracts.
 - Locate the required contract from the Contracts listing screen.
 - Select the required contract record.
@@ -171,9 +149,8 @@ The Contracts module allows administrators to create, manage, and maintain contr
 
 ![](media/slide072_img2.png){width=93%}
 
-## Organization – Edit Contract 2
+## Edit Contract Details
 
-**To Edit Contract Details**
 - Navigate to the Contract Details tab.
 - Update the Contract Duration and duration unit if the contract term has changed.
 - Modify the Contract Value or Currency as required.
