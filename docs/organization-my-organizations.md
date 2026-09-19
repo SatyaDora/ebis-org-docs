@@ -35,6 +35,7 @@ To create a new organization:
 ### License Details
 
 Under the License Details tab, review or update:
+
  - License Name
  - License Type
  - License Status
@@ -46,7 +47,8 @@ Under the License Details tab, review or update:
 
 ### Trade Listing
 
-In Trade Listing tab.
+In Trade Listing tab
+
 - Update the required trade-related details and listing information.
 - Review the entered values carefully.
 - Click Save / Update to apply the changes.
@@ -71,6 +73,7 @@ in Other Details tab.
 ### Documents
 
 In Documents tab:
+
 - Upload, replace, or manage the required organization documents.
 - Verify that the correct files are attached.
 - Click Save / Update to apply the changes.
@@ -82,6 +85,7 @@ In Documents tab:
 ### SMTP Domains
 
 In SMTP Domains tab:
+
 - Click the option to add or select SMTP domains.
 - In the Select SMTP Domain Name window, choose the required SMTP domain from the available list.
 - Use the search or filter option to locate a specific domain if required.
@@ -95,7 +99,8 @@ In SMTP Domains tab:
 
 The Settings options in Create Organization allow administrators to prepare and configure additional organization-related controls before or after saving the organization record.
 
-- Key Settings Features
+**Key Settings Features**
+  
 - List Values
 - Custom Fields
 - Administrator Responsibilities
@@ -111,6 +116,7 @@ The Settings options in Create Organization allow administrators to prepare and 
 The List Values option is used to manage predefined dropdown values used across organization forms and fields.
 
 To configure list values during organization setup, open the Settings menu:
+
 - Select List Values.
 - In the List Values screen, locate the required category or field.
 - Click Add New to create a new list value.
@@ -124,7 +130,9 @@ To configure list values during organization setup, open the Settings menu:
 ### Custom Fields
 
 The Custom Fields option is used to create additional fields dynamically for the organization module.
-To create a custom field, open the Settings menu. Select Custom Fields.
+
+To create a custom field, open the Settings menu. Select Custom Fields:
+
 - Click Add New.
 - Enter the Field Name and Label Name.
 - Select the required Field Type.
@@ -138,6 +146,7 @@ To create a custom field, open the Settings menu. Select Custom Fields.
 ### Add License Record
 
 To create any additional tab for a particular child category of basic or information or Incorporation Details sections (in this case, it’s the License Details tab):
+
 - Click Add New to open the Create License Details screen.
 - Enter the required information such as:
  - Organization Name
@@ -171,6 +180,7 @@ To create any additional tab for a particular child category of basic or informa
 The Settings options in Edit Organization allow administrators to prepare and configure additional organization-related controls before or after saving the organization record.
 
 **Key Settings Features**
+
 - List Values
 - Custom Fields
 - Record Level Security
@@ -202,6 +212,7 @@ The List Values option allows administrators to update and maintain predefined d
 The Custom Fields option is used to manage additional organization fields and update existing field configurations.
 
 To update custom fields for organizations:
+
 - Open the Settings menu.
 - Select Custom Fields.
 - Locate the required custom field from the list.
@@ -230,6 +241,7 @@ The Record Level Security option allows administrators to manage organization ac
 ## Clone Organization
 
 To duplicate an existing organization record:
+
 - Select the required organization from the list.
 - Click the Clone icon from the top toolbar.
 - In the clone screen, modify the copied organization details as required.
@@ -241,6 +253,7 @@ To duplicate an existing organization record:
 ##  Delete Organization
 
 To remove an organization record:
+
 - Select the required organization from the list.
 - Click the Delete icon from the top toolbar.
 - In the confirmation message, verify the selected organization details.
@@ -250,7 +263,8 @@ To remove an organization record:
 
 ## View Organization
 
-To view organization details, select the required organization record from the list.
+To view organization details, select the required organization record from the list:
+
 - Click the View icon from the top toolbar. The system displays all configured information in read-only mode, including:
 **Basic Information**
 **Incorporation Details**
