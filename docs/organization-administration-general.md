@@ -1,21 +1,7 @@
-# Organization – Administration – General
+# Administration 
+## General
 
-The Domains section is used to maintain domain registration and SMTP-related configuration details within the Administration module.
-
-- Users can:
-- Create and manage organizational domains.
-- Track registration and renewal dates.
-- Configure SMTP domain mappings.
-- Maintain registrar and account information.
-- Store authentication and operational notes.
-- Navigation Path
-- Administration → General
-
-![](media/slide105_img1.png){width=93%}
-
-## Organization – Administration – General 2
-
-- The General section under Administration provides centralized configuration options for:
+The General section under Administration provides centralized configuration options for:
 - Domains
 - Email Templates
 - Error Logs
@@ -27,11 +13,9 @@ The Domains section is used to maintain domain registration and SMTP-related con
 
 ![](media/slide106_img1.png){width=98%}
 
-## Domains
-
-- Important Navigation and Workflow
+## Important Navigation and Workflow
 - Note:
-- The Domains module follows a centralized configuration workflow.
+The Domains module follows a centralized configuration workflow.
 - Users should:
 - Create SMTP Domains before mapping them to Domains records.
 - Enter registration and renewal information.
@@ -40,9 +24,9 @@ The Domains section is used to maintain domain registration and SMTP-related con
 - Save the configuration after verification.
 - Create and Edit operations follow the same screen layout and workflow.
 
-## Domains 2
+## Create Domain 
 
-- The Domains screen is used to maintain internet domain registrations associated with the organization. This information helps administrators track registration details, renewal dates, registrar information, account credentials, and related SMTP domains.
+The Domains screen is used to maintain internet domain registrations associated with the organization. This information helps administrators track registration details, renewal dates, registrar information, account credentials, and related SMTP domains.
 
 - Click Create from the Domain List screen.
 - Enter the Domain Name.
@@ -58,7 +42,7 @@ The Domains section is used to maintain domain registration and SMTP-related con
 
 ![](media/slide108_img1.png){width=94%}
 
-## Domains 3
+## Edit Domain
 
 - Edit/Modify Domains
 - Select an existing domain and click Edit.
@@ -124,7 +108,7 @@ The Domains section is used to maintain domain registration and SMTP-related con
 
 ## List Entries
 
-- The List Entries screen is used to manage configurable lookup lists that are referenced throughout the application. Administrators can maintain list definitions and their associated values, which populate dropdown menus and selection fields across various modules.
+The List Entries screen is used to manage configurable lookup lists that are referenced throughout the application. Administrators can maintain list definitions and their associated values, which populate dropdown menus and selection fields across various modules.
 
 - Navigate to Administration → General → List Entry.
 - Select an existing record and click Edit Icon.
@@ -136,8 +120,6 @@ The Domains section is used to maintain domain registration and SMTP-related con
 
 ![](media/slide113_img2.png){width=95%}
 
-## List Entries 2
-
 - Configure the Is Child option if the list entry is dependent on another list.
 - Add the List Entry Name using the dropdown if the list entry is dependent on another list.
 - Add notes or additional information as required.
@@ -147,11 +129,11 @@ The Domains section is used to maintain domain registration and SMTP-related con
 
 ![](media/slide114_img2.png){width=94%}
 
-## Metric Templates
+## Create Metric Templates
 
-- The Metric Templates section is used to create and manage reusable scoring templates. A Metric Template defines a collection of evaluation metrics, along with their weights and scoring ranges, which can be used consistently across assessments, supplier evaluations, audits, or other business processes.
+The Metric Templates section is used to create and manage reusable scoring templates. A Metric Template defines a collection of evaluation metrics, along with their weights and scoring ranges, which can be used consistently across assessments, supplier evaluations, audits, or other business processes.
 
-- To Create a Metric Template
+To Create a Metric Template
 - Navigate to Administration > General > Metric Templates.
 - Click the Create icon.
 - Enter the Template Name.
@@ -167,9 +149,7 @@ The Domains section is used to maintain domain registration and SMTP-related con
 
 ![](media/slide115_img2.png){width=95%}
 
-## Metric Templates 2
-
-- To Edit a Metric Template
+To Edit a Metric Template
 - Navigate to Administration > General > Metric Templates.
 - Select the required template.
 - Click the Edit icon.
@@ -181,15 +161,7 @@ The Domains section is used to maintain domain registration and SMTP-related con
 
 ![](media/slide116_img2.png){width=95%}
 
-- To Add a Metric Value
-- Open the required Metric Template.
-- In the Metric Template Values section, click Create New.
-- Enter the metric configuration details.
-- Click Save or Save & New.
-
-## Metric Templates 3
-
-- To Add a Metric Value
+To Add a Metric Value
 - Open the required Metric Template.
 - In the Metric Template Values section, click Create New.
 - Enter the metric configuration details.
@@ -207,9 +179,9 @@ The Domains section is used to maintain domain registration and SMTP-related con
 
 ## SMTP Domains
 
-- The SMTP Domains section is used to maintain the list of approved email domains that can be associated with email configurations, domain records, and outbound communication processes within the system.
+The SMTP Domains section is used to maintain the list of approved email domains that can be associated with email configurations, domain records, and outbound communication processes within the system.
 
-- To Create an SMTP Domain
+To Create an SMTP Domain
 - Navigate to Administration > General > SMTP Domains.
 - Click the Create icon.
 - Enter the SMTP Domain Name.
@@ -221,9 +193,7 @@ The Domains section is used to maintain domain registration and SMTP-related con
 
 ![](media/slide118_img2.png){width=94%}
 
-## SMTP Domains 2
-
-- To Edit an SMTP Domain
+ To Edit an SMTP Domain
 - Navigate to Administration > General > SMTP Domains.
 - Select the required SMTP Domain record.
 - Click the Edit icon.
@@ -233,8 +203,6 @@ The Domains section is used to maintain domain registration and SMTP-related con
 ![](media/slide119_img1.png){width=93%}
 
 ![](media/slide119_img2.png){width=94%}
-
-## Thank You!
 
 ![](media/slide120_img1.jpg){width=84%}
 
