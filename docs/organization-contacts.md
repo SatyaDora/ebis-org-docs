@@ -7,9 +7,8 @@ The Contacts section is used to create and maintain contact records associated w
 
 ![](media/slide096_img1.png){width=93%}
 
-## Organization – Contacts 2
+## Create / Edit Contact
 
-- Create / Edit Contact.
 - Navigate to External Organizations → Contacts.
 - To create a new contact:
  - Click Add New Contact.
@@ -25,10 +24,9 @@ The Contacts section is used to create and maintain contact records associated w
 
 ![](media/slide097_img1.png){width=94%}
 
-## Organization – Contacts 3
+## Basic Information Section
 
-**Basic Information Section**
-- The Basic Information section is used to maintain primary contact and organizational details.
+The Basic Information section is used to maintain primary contact and organizational details.
 - Users can enter or modify:
  - First Name
  - Middle Name
@@ -41,10 +39,9 @@ The Contacts section is used to create and maintain contact records associated w
 
 ![](media/slide098_img1.png){width=94%}
 
-## Organization – Contacts 4
+## Contact Details
 
-**Contact Details**
-- The Contact Details section is used to maintain address-related information for the contact.
+The Contact Details section is used to maintain address-related information for the contact.
 - Users can enter or modify:
 - Country
 - State
@@ -56,20 +53,18 @@ The Contacts section is used to create and maintain contact records associated w
 
 ![](media/slide100_img1.png){width=96%}
 
-## Organization – Contacts 5
+## Contact Information Section
 
-**Contact Information Section**
-- The Contact Information section is used to maintain additional communication and contact-related information.
-- Users can expand this section to enter supplementary communication details as required by organizational standards.
+The Contact Information section is used to maintain additional communication and contact-related information.
+Users can expand this section to enter supplementary communication details as required by organizational standards.
 
 ![](media/slide101_img1.png){width=98%}
 
-## Organization – Contacts 6
+## Other Information Section
 
-**Other Information Section**
-- The Other Information section is used to configure executive authority, leadership designation, and additional organizational details.
+The Other Information section is used to configure executive authority, leadership designation, and additional organizational details.
 
-- Users can:
+Users can:
 - Mark executive-level contacts.
 - Configure signing authority.
 - Maintain exchange-related details.
@@ -78,10 +73,9 @@ The Contacts section is used to create and maintain contact records associated w
 
 ![](media/slide102_img1.png){width=95%}
 
-## Organization – Contacts 7
+## Common Actions Reference
 
-- Common Actions Reference
-- The following actions are common throughout the Contacts module:
+The following actions are common throughout the Contacts module:
 - Create
 - Edit
 - Save
@@ -89,4 +83,5 @@ The Contacts section is used to create and maintain contact records associated w
 - Search
 - View
 - Refresh
-- These actions follow the same behavior throughout the application.
+
+These actions follow the same behavior throughout the application.
