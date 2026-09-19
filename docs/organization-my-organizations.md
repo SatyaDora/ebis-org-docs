@@ -25,7 +25,6 @@ To create a new organization:
 - Enter incorporation details such as Incorporation Name, Incorporation Type, Incorporation Status, Country, State, Incorporation Number, Incorporation Date, Fees, and Costs.
 - Select whether the organization is incorporated internally or through a consultancy.
 - Enter consultancy details if applicable.
-
 - Click Save to create the organization record.
 - Click Save & New to save the current record and create another organization.
 
@@ -69,7 +68,7 @@ in Other Details tab.
 
 ### Documents
 
-In Documents tab,
+In Documents tab:
 - Upload, replace, or manage the required organization documents.
 - Verify that the correct files are attached.
 - Click Save / Update to apply the changes.
@@ -80,7 +79,7 @@ In Documents tab,
 
 ### SMTP Domains
 
-In SMTP Domains tab,
+In SMTP Domains tab:
 - Click the option to add or select SMTP domains.
 - In the Select SMTP Domain Name window, choose the required SMTP domain from the available list.
 - Use the search or filter option to locate a specific domain if required.
@@ -201,7 +200,7 @@ The List Values option allows administrators to update and maintain predefined d
 
 The Custom Fields option is used to manage additional organization fields and update existing field configurations.
 
-- To update custom fields for organizations:
+To update custom fields for organizations:
 - Open the Settings menu.
 - Select Custom Fields.
 - Locate the required custom field from the list.
