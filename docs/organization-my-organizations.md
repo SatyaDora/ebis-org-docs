@@ -1,6 +1,7 @@
 # My Organizations
 
 To access the My Organizations module, open the main navigation menu from the left panel:
+
 - Navigate to Organization.
 - Select My Organizations from the submenu.
 - The My Organizations screen displays the list of all configured organization records within the platform
@@ -10,6 +11,7 @@ To access the My Organizations module, open the main navigation menu from the le
 ## Create Organization
 
 To create a new organization:
+
 - Click the Create icon from the top toolbar.
 - In the Basic Information tab, enter the required organization details such as Organization Name, Parent Organization, Website, Resolver Group, Phone Numbers, and Number of Locations.
 - Select the Validate Domains option if domain validation is required.
