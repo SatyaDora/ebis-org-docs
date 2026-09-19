@@ -1,13 +1,12 @@
 # Organization – My Locations
+The My Locations module is used to create, manage, and maintain organization location records within the platform. It allows administrators to configure location-specific information such as office locations, branches, facilities, addresses, contact details, and location hierarchy associated with organizations.
 
-- The My Locations module is used to create, manage, and maintain organization location records within the platform. It allows administrators to configure location-specific information such as office locations, branches, facilities, addresses, contact details, and location hierarchy associated with organizations.
-
-- To access the My Locations, open the main navigation menu from the left panel
+To access the My Locations, open the main navigation menu from the left panel
 - Navigate to My Locations.
 
 ![](media/slide044_img1.png){width=94%}
 
-## Create New Location-Basic Information
+### Basic Information
 
 - Open the My Locations screen and create a new location record.
 - Enter the required details such as Location Name and Organization Name.
@@ -27,9 +26,7 @@
 
 ![](media/slide045_img2.png){width=93%}
 
-## Create New Location-Additional Information
-
-**Additional Information Tab**
+### Additional Information
 
 - Navigate to the Additional Information tab under the Buildings section.
 - Maintain additional building contact and address-related information such as Phone 1, Phone 2, address details, Country, State, City, and Zip information.
@@ -38,9 +35,7 @@
 
 ![](media/slide046_img1.png){width=98%}
 
-## Create New Location-Access Information
-
-**Access Information Tab**
+### Access Information
 
 - Navigate to the Access Information tab.
 - Maintain building access-related information and security access details wherever applicable.
@@ -50,9 +45,7 @@
 
 ![](media/slide047_img1.png){width=96%}
 
-## Create New Location-Other Information
-
-**Other Information Tab**
+### Other Information
 
 - Navigate to the Other Information tab.
 - Maintain additional building-specific operational or administrative information configured for the organization.
@@ -62,9 +55,7 @@
 
 ![](media/slide048_img1.png){width=98%}
 
-## Create New Location-Documents
-
-**Documents Tab**
+### Documents
 
 - Navigate to the Documents tab.
 - Upload, replace, or manage building-related supporting documents and attachments.
@@ -73,7 +64,7 @@
 
 ![](media/slide049_img1.png){width=98%}
 
-## Create New Location-Floors
+### Floors
 
 - Navigate to the Floors tab.
 - Create and manage floor records associated with the selected building.
@@ -93,9 +84,10 @@
 
 ![](media/slide051_img1.png){width=96%}
 
-## Edit Buildings-Basic Information
+### Basic Information
 
-- The Buildings section allows administrators to associate one or more building records with a specific organization location.
+The Buildings section allows administrators to associate one or more building records with a specific organization location.
+
 - Navigate to the Buildings section under the selected location record.
 - Use the Create New option to add a new building record.
 - Enter or update details such as Building Name, Building Number, and Primary Building information.
@@ -106,9 +98,7 @@
 
 ![](media/slide052_img2.png){width=93%}
 
-## Edit Buildings-Additional Information
-
-**Additional Information Tab**
+### Additional Information
 
 - Navigate to the Additional Information tab under the Buildings section.
 - Maintain additional building contact and address-related information such as Phone 1, Phone 2, address details, Country, State, City, and Zip information.
@@ -117,9 +107,7 @@
 
 ![](media/slide053_img1.png){width=97%}
 
-## My Locations – Edit Location Details – Buildings
-
-**Access Information Tab**
+### Edit Location Details – Buildings
 
 - Navigate to the Access Information tab.
 - Maintain building access-related information and security access details wherever applicable.
@@ -128,9 +116,7 @@
 
 ![](media/slide054_img1.png){width=98%}
 
-## My Locations – Edit Location Details – Buildings 2
-
-**Other Information Tab**
+## Other Information Tab
 
 - Navigate to the Other Information tab.
 - Maintain additional building-specific operational or administrative information configured for the organization.
@@ -140,9 +126,7 @@
 
 ![](media/slide055_img1.png){width=99%}
 
-## My Locations – Edit Location Details – Buildings 3
-
-**Documents Tab**
+### Documents Tab
 
 - Navigate to the Documents tab.
 - Upload, replace, or manage building-related supporting documents and attachments.
@@ -151,16 +135,16 @@
 
 ![](media/slide056_img1.png){width=98%}
 
-## My Locations – Edit Location Details – Buildings 4
+### Floors
 
-**Floors Tab**
-- Navigate to the Floors tab. Create and manage floor records associated with the selected building. Maintain floor-related information such as floor identification, numbering, and associated operational details. Review all entered floor information carefully before saving. Click Save / Update to apply the changes.
+- Navigate to the Floors tab.
+- Create and manage floor records associated with the selected building.
+- Maintain floor-related information such as floor identification, numbering, and associated operational details.
+- Review all entered floor information carefully before saving. Click Save / Update to apply the changes.
 
 ![](media/slide057_img1.png){width=95%}
 
-## My Locations – Buildings – Floors
-
-- The Floors section allows administrators to create and manage floor-level information associated with a selected building. This section helps maintain floor identification details, floor type, workspace allocation, accessibility features, operational facilities, floor plans, and safety-related information.
+The Floors section allows administrators to create and manage floor-level information associated with a selected building. This section helps maintain floor identification details, floor type, workspace allocation, accessibility features, operational facilities, floor plans, and safety-related information.
 
 - Select the required location and open the associated building record.
 - Navigate to the Floors tab under the Buildings section.
@@ -175,9 +159,9 @@
 
 ![](media/slide058_img1.png){width=95%}
 
-## My Locations – Buildings – Floors 2
+### Configure Floor Plan
 
-- Configure the Floor Plan options based on the facilities available on the floor:
+Configure the Floor Plan options based on the facilities available on the floor:
  - Data Center
  - Work/Office Spaces /Conference Rooms
  - Mail Stops /Warehouse
