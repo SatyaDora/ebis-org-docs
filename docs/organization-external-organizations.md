@@ -1,6 +1,6 @@
 # Organization – External Organizations
 
-- The External Organizations module is used to create, manage, and maintain information related to third-party organizations, vendors, partners, subsidiaries, clients, and associated business entities.
+The External Organizations module is used to create, manage, and maintain information related to third-party organizations, vendors, partners, subsidiaries, clients, and associated business entities.
 
 - Once users navigate to External Organizations section, they can:
 - Create new external organizations.
@@ -11,17 +11,7 @@
 
 ![](media/slide075_img1.png){width=93%}
 
-## Organization – External Organizations 2
-
-- The External Organizations module is used to create, manage, and maintain information related to third-party organizations, vendors, partners, subsidiaries, clients, and associated business entities.
-
-- Navigate to 
-- Organization → External Organizations
-- The system displays the External Organizations listing screen.
-
-![](media/slide076_img1.png){width=93%}
-
-- The listing screen displays all available external organization records in a searchable grid format.
+The listing screen displays all available external organization records in a searchable grid format.
 - The grid includes:
 - Organization Name
 - Organization Generated ID
@@ -34,12 +24,12 @@
 
 ## Common Toolbar Actions
 
-- The toolbar options such as:
+The toolbar options such as:
  - Clone
  - Delete
  - View
  - Refresh
-- have already been explained in the My Organization section and follow the same behavior throughout the application.
+ have already been explained in the My Organization section and follow the same behavior throughout the application.
 - Use these options to:
  - Duplicate existing records.
  - Remove records
@@ -48,9 +38,8 @@
 
 ![](media/slide077_img1.png){width=99%}
 
-## Organization – External Organizations 3
+## Create / Edit External Organization
 
-- Create / Edit External Organization.
 - Navigate to the External Organizations screen.
 - To create a new organization record, open the organization creation screen.
 - To modify an existing organization:
@@ -66,10 +55,8 @@
 
 ![](media/slide078_img2.png){width=94%}
 
-## Organization – External Organizations 4
-
-- Enable the Top Parent option if the organization is the primary parent organization.
-- Enter or update:
+Enable the Top Parent option if the organization is the primary parent organization.
+Enter or update:
  - Website details
  - Resolver Group
  - Phone numbers
@@ -83,9 +70,8 @@
 
 ![](media/slide079_img1.png){width=94%}
 
-## Organization – External Organizations 5
+## Additional Details
 
-**Additional Details**
 - Navigate to the Additional Details tab.
 - Select the appropriate Region.
 - Enter or update the:
@@ -98,9 +84,8 @@
 
 ![](media/slide080_img1.png){width=94%}
 
-## Organization – External Organizations 6
+## Other Details
 
-**Other Details**
 - Navigate to the Other Details tab.
 - In the Base Technology Platform field:
  - Select the primary technology platform used by the organization.
@@ -110,8 +95,6 @@
  - Select the appropriate currency and classification.
 
 ![](media/slide081_img1.png){width=94%}
-
-## Organization – External Organizations 7
 
 - Enable the International Company option if the organization operates internationally.
 - Enable the Security Clearance Required option if additional security validation is needed for engagements.
@@ -126,9 +109,8 @@
 
 ![](media/slide082_img1.png){width=95%}
 
-## Organization – External Organizations 8
+## Documents
 
-- Documents
 - Navigate to the Documents tab.
 - Click Create New to add a new document record.
 - Enter or select:
@@ -142,11 +124,10 @@
 
 ![](media/slide083_img1.png){width=95%}
 
-## Organization – External Organizations 9
+## Operational Function
 
 ![](media/slide084_img1.png){width=95%}
 
-- Operational Function
 - Navigate to the Operational Function tab.
 - Click Create New to add a new operational function.
 - Enter or update:
@@ -157,17 +138,15 @@
 - Click Save / Update to apply the changes.
 
 ![](media/slide084_img2.png){width=92%}
-
-- SMTP Domains
+## SMTP Domains
 - Navigate to the SMTP Domains tab.
 - Click Add New to create a new SMTP domain entry.
 - Enter the required SMTP domain name.
 - Verify the domain information carefully.
 - Click Save / Update to apply the changes.
 
-## Organization – External Organizations 10
+## Entitlements
 
-- Entitlements
 - Navigate to the Entitlements tab.
 - Add or update entitlement-related information as required.
 - Review all entitlement configurations carefully.
@@ -175,7 +154,8 @@
 
 ![](media/slide085_img1.png){width=94%}
 
-- Issues
+## Issues
+
 - Navigate to the Issues tab.
 - Review the available issue records.
 - Add or update issue information where applicable.
@@ -188,9 +168,8 @@
 
 ![](media/slide085_img2.png){width=94%}
 
-## Organization – External Organizations 11
+## Application Documents
 
-**Application Documents**
 - Navigate to the Application Documents tab.
 - Review existing application document records.
 - Add or associate new application documents where required.
