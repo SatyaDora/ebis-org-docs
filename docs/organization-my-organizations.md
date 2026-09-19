@@ -134,7 +134,7 @@ To create a custom field, open the Settings menu. Select Custom Fields.
 
 ![](media/slide018_img1.png){width=93%}
 
-## Add License Record
+### Add License Record
 
 To create any additional tab for a particular child category of basic or information or Incorporation Details sections (in this case, it’s the License Details tab):
 - Click Add New to open the Create License Details screen.
