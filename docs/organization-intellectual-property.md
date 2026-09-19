@@ -4,7 +4,7 @@ This section allows administrators to create and manage intellectual property re
 
 ![](media/slide038_img1.png){width=96%}
 
-## Intellectual Property – Create New Record
+## Create New Record
 
 - To Create New IP Record:
 - Select the required Intellectual Property Type such as Copyright, Patent, or Trademark.
@@ -19,7 +19,7 @@ This section allows administrators to create and manage intellectual property re
 
 ![](media/slide039_img1.png){width=93%}
 
-## Intellectual Property – Edit Intellectual Property Details
+## Edit Intellectual Property Details
 
 - To edit Intellectual Property Details:
 - Navigate to Organization > Intellectual Property.
@@ -37,28 +37,27 @@ This section allows administrators to create and manage intellectual property re
 
 ![](media/slide040_img4.png){width=93%}
 
-## Intellectual Property – Edit Intellectual Property Details 2
+## Documents Tab
 
-**Documents Tab**
 - Use the Create New option to add a new document record. Upload or manage intellectual property-related supporting documents such as copyright certificates, trademark files, patent documents, agreements, or legal attachments. Click Save / Update to apply the changes.
 
 ![](media/slide041_img1.png){width=92%}
 
-**Costs Tab**
+## Costs Tab
 - Use the Create New option to add a new cost record associated with the intellectual property. Maintain financial information such as Invoice Number, Invoice Date, PO Number, Payment Due Date, renewal charges, legal expenses, or maintenance costs. Click Save / Update to apply the changes.
 
 ![](media/slide041_img2.png){width=93%}
 
 ![](media/slide041_img3.png){width=93%}
 
-## Intellectual Property – Edit Intellectual Property Details 3
+## Inventors Tab
 
-**Inventors Tab**
 - Use the Create New option to associate inventor records with the intellectual property.
 - Add or manage inventor-related information such as Organization Name and User Name.
 - Click Save to apply the changes.
 
-**Attorney Information Tab**
+## Attorney Information Tab
+
 - Use the Create New option to add attorney or legal representative details associated with the intellectual property record.
 - Maintain attorney-related information such as Attorney Title, Organization Name, Engagement Start Date, and Engagement End Date.
 - Click Save / Update to apply the changes.
@@ -67,7 +66,8 @@ This section allows administrators to create and manage intellectual property re
 
 ![](media/slide042_img2.png){width=93%}
 
-**Attorney Interactions Tab**
+## Attorney Interactions Tab
+
 - Add or update details such as Conversation Date, Conversation Title, and Conversation Type.
 - Maintain communication history, legal follow-ups, and interaction tracking information wherever applicable.
 - Click Save to apply the changes.
