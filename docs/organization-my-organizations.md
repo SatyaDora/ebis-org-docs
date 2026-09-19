@@ -150,63 +150,6 @@ To create any additional tab for a particular child category of basic or informa
 
 ![](media/slide020_img2.png){width=95%}
 
-## Organization – My Organizations 2
-
-**Edit/Modify My Organizations Details**
-- Navigate to Organization > My Organizations.
-- From the organizations list, select the required organization record.
-- Click the Edit/Modify option from the top toolbar.
-- In the edit screen, update the required fields under the Basic Information.
-- Modify details such as: Organization Name, Website, Phone Numbers, Parent Organization, Resolver Group, Number of Locations, Publicly Traded option.
-- Use the Validate Domains option to verify whether the organization’s domain information is valid.
-- Enable the Publicly Traded checkbox if the organization is listed on a public stock exchange.
-- Click Save / Update to apply the changes.
-
-![](media/slide021_img1.png){width=96%}
-
-![](media/slide021_img2.png){width=87%}
-
-![](media/slide021_img3.png){width=89%}
-
-## Organization – My Organizations 3
-
-In the edit screen, update the required fields under the Incorporation Details.
-- Modify details such as: Incorporation Type, Incorporation Country, Incorporation Number, Incorporation Fees, Incorporation Status, Incorporation Date, Consultancy Information.
-- Use the Validate Domains option to verify whether the organization’s domain information is valid.
-- Enable the Publicly Traded checkbox if the organization is listed on a public stock exchange.
-- Click Save / Update to apply the changes.
-
-![](media/slide022_img1.png){width=96%}
-
-## Organization – My Organizations 4
-
-- Click the option to add a new document.
-- In the Documents screen, enter the required information such as:
- - Document Title
- - Document Version Number
- - Document Type
- - Description
-- Enable the Template Doc Type option if the document is intended to be used as a template document type.
-- Click Choose File to upload the required document from the local system.
-- Click Save to create the document record.
-- Click Save & New to save the current document and immediately upload another document if required.
-
-![](media/slide023_img1.png){width=95%}
-
-## Organization – My Organizations 5
-
-- Click the option to add a new trade listing record.
-- In the Trade Listing screen, enter the required information such as:
- - Listed In Exchange
- - Trade Code
- - Listing Date
- - De-Listing Date
-- Verify all entered information carefully.
-- Click Save to create the trade listing record.
-- Click Save & New to save the current record and immediately create another trade listing entry if required.
-
-![](media/slide024_img1.png){width=95%}
-
 ## My Organizations – Edit Organization
 
 **Edit/Modify My Organizations Details**
@@ -284,7 +227,7 @@ The Record Level Security option allows administrators to manage organization ac
 
 ![](media/slide028_img2.png){width=93%}
 
-## My Organizations – Clone Organization
+## Clone Organization
 
 To duplicate an existing organization record:
 - Select the required organization from the list.
@@ -295,7 +238,7 @@ To duplicate an existing organization record:
 
 ![](media/slide029_img1.png){width=94%}
 
-## My Organizations – Delete Organization
+##  Delete Organization
 
 To remove an organization record:
 - Select the required organization from the list.
@@ -305,7 +248,7 @@ To remove an organization record:
 
 ![](media/slide030_img1.png){width=99%}
 
-## My Organizations – View Organization
+## View Organization
 
 To view organization details, select the required organization record from the list.
 - Click the View icon from the top toolbar. The system displays all configured information in read-only mode, including:
@@ -318,7 +261,7 @@ To view organization details, select the required organization record from the l
  - SMTP Domains
 - Use the tabs to navigate between sections.
 
-## My Organizations – Refresh Organization List
+## Refresh Organization List
 
 To reload the organization records displayed on the screen:
 - Click the Refresh icon from the top toolbar.
