@@ -89,7 +89,7 @@ In SMTP Domains tab:
 
 ![](media/slide015_img1.png){width=97%}
 
-## Create Organization – Settings
+### Settings
 
 The Settings options in Create Organization allow administrators to prepare and configure additional organization-related controls before or after saving the organization record.
 
@@ -149,9 +149,8 @@ To create any additional tab for a particular child category of basic or informa
 
 ![](media/slide020_img2.png){width=95%}
 
-## My Organizations – Edit Organization
+## Edit Organization
 
-**Edit/Modify My Organizations Details**
 - Navigate to Organization > My Organizations.
 - From the organizations list, select the required organization record.
 - Click the Edit/Modify option from the top toolbar.
@@ -165,7 +164,7 @@ To create any additional tab for a particular child category of basic or informa
 
 ![](media/slide025_img3.png){width=89%}
 
-### Settings Features
+### Settings 
 
 The Settings options in Edit Organization allow administrators to prepare and configure additional organization-related controls before or after saving the organization record.
 
