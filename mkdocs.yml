@@ -5,7 +5,7 @@ docs_dir: docs
 theme:
   name: material
   palette:
-    # Swap these two colors for official Issquared brand colors before the demo
+    # Swap these two colors for official Issquared bran d colors before the demo
     primary: deep blue
     accent: blue
   features:
@@ -18,16 +18,18 @@ theme:
 
 nav:
   - Home: index.md
-  - Getting Started: accessing-organization-module.md
-  - My Organizations: organization-my-organizations.md
-  - Relationships: organization-organizational-relationship.md
-  - IP Records: organization-intellectual-property.md
-  - Locations: organization-my-locations.md
-  - Contracts: organization-contracts.md
-  - External Orgs: organization-external-organizations.md
-  - External Locations: organization-external-locations.md
-  - Contacts: organization-contacts.md
-  - Admin – General: organization-administration-general.md
+  - Accessing the Module: accessing-organization-module.md
+  - Organization:
+      - My Organizations: organization-my-organizations.md
+      - Organizational Relationship: organization-organizational-relationship.md
+      - My Locations: organization-my-locations.md
+      - Contracts: organization-contracts.md
+      - Contacts: organization-contacts.md
+      - External Organizations: organization-external-organizations.md
+      - External Locations: organization-external-locations.md
+      - Intellectual Property: organization-intellectual-property.md
+  - Administration:
+      - General: organization-administration-general.md
 
 plugins:
   - search

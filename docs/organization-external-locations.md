@@ -1,110 +1,36 @@
-# Organization – External Locations
+# Organization: External Locations
 
-- Navigate to External Organizations → External Locations.
-- Review the list of available external locations.
-- Use the available filters to search by:
- - Location Name
- - Headquarters Status
- - Organization Name
-- Select the required location record.
-- Use the available actions to:
- - View location details
- - Edit existing records
- - Delete records if permitted
+* Navigate to **External Organizations > External Locations** to view, filter (by Location Name, Headquarters Status, or Organization Name), view, edit, or delete external locations[cite: 13].
 
 ![](media/slide088_img1.png){width=93%}
 
 ![](media/slide088_img2.png){width=95%}
 
-## Organization – External Locations 2
+## Create / Edit External Location
 
-- Create / Edit External Location.
-- The Create / Edit External Location screen is used to maintain detailed address, communication, and operational information for external organization locations.
-- This screen also serves as the parent configuration layer for buildings associated with the location.
+This screen acts as the master record and parent configuration layer for buildings linked to external locations[cite: 13].
 
-**Basic Information**
-**Location Details**
-- Enter the Location Name.
-- Select the associated Organization Name.
-- Enter:
- - Phone 1
- - Phone 2
- - Location Email Address
-- Enable the Head Quarters option if the location is the organization’s headquarters.
+* **Basic Information & Location Details:** Enter Location Name, Organization Name, Phone numbers, Email, and Headquarters status[cite: 13].
+  
+  ![](media/slide089_img1.png){width=95%}
 
-![](media/slide089_img1.png){width=95%}
+  ![](media/slide089_img2.png){width=89%}
 
-![](media/slide089_img2.png){width=89%}
+  ![](media/slide090_img1.png){width=94%}
 
-## Organization – External Locations 3
+* **Address Information:** Enter Address lines 1-3, Country, State, City, and ZIP code[cite: 13].
+* **Operational Information:** Specify Location Head, Location Code generation rules, upload images, and add operational notes before clicking **Save / Update**[cite: 13].
 
-![](media/slide090_img1.png){width=94%}
+  ![](media/slide091_img1.png){width=95%}
 
-**Address Information**
-- Enter:
- - Address Line 1.
- - Address Line 2.
- - Address Line 3.
-- Select the Country.
-- Select the appropriate State.
-- Enter:
- - Other State (if applicable)
- - City
- - ZIP Code
+## Manage Buildings in External Locations
 
-**Operational Information**
-- Enter the Location Head information.
-- Enable Is Auto Generated Location Code? if automatic code generation is required.
-- Enter or verify the Location Code.
+The Buildings section manages physical facilities, hierarchy expansion, and infrastructure[cite: 13].
 
-## Organization – External Locations 4
+* Access the buildings grid within an external location record to create, edit, or delete building entries[cite: 13].
+  
+  ![](media/slide092_img1.png) {width=97%}
 
-- Image and Notes
-- Upload the required Location Image if applicable.
-- Use the Notes section to provide additional location details.
-- Review all entered information carefully.
-- Click Save / Update to apply the changes.
+* Configure building-specific address information, operational parameters, and notes[cite: 13].
 
-![](media/slide091_img1.png){width=95%}
-
-## Buildings
-
-- The Buildings section is used to manage buildings associated with the selected external location.
-- This section supports:
-- Building hierarchy management
-- Infrastructure expansion
-- Physical facility tracking
-
-- Buildings Grid
-- Navigate to the Buildings section within the External Location screen.
-- Review existing building records.
-- Click Create New to add a new building.
-- Use available actions to:
- - Edit building details
- - Delete building records
-- Review all information before proceeding.
-
-![](media/slide092_img1.png){width=97%}
-
-## Organization – External Locations 5
-
-**Address Information**
-- Enter:
- - Address Line 1.
- - Address Line 2.
- - Address Line 3.
-- Select the Country and State.
-- Enter:
- - Other State (if applicable)
- - City
- - ZIP Code
-
-![](media/slide094_img1.png){width=96%}
-
-**Operational Information**
-- Enter the Location Head information.
-- Enable Is Auto Generated Location Code? if automatic code generation is required.
-- Enter or verify the Location Code.
-- Upload the required Location Image if applicable.
-- Use the Notes section to provide additional location details.
-- Click Save / Update to apply the changes.
+  ![](media/slide094_img1.png){width=96%}

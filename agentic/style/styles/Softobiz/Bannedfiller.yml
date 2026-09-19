@@ -1,0 +1,13 @@
+extends: existence
+message: "'%s' is generic filler with no proof anchor. Cut it or replace with a specific detail."
+level: error
+ignorecase: true
+tokens:
+  - 'unlock(ing)? (the|your)? ?value'
+  - 'is important for'
+  - 'helps you (manage|do|achieve)'
+  - 'effectively'
+  - "in today's (fast-paced|ever-evolving)"
+  - 'best[- ]in[- ]class'
+  - 'cutting[- ]edge'
+  - 'seamlessly'
