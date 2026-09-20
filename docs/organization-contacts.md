@@ -1,36 +1,87 @@
-# Organization: Contacts
+# Organization – Contacts
 
-The Contacts section stores personal, organizational, communication, and authority-related data for contacts associated with external organizations[cite: 10].
+The Contacts section is used to create and maintain contact records associated with external organizations. Users can store personal, organizational, communication, and authority-related information for business contacts.
 
-* **Navigation Path:** External Organizations > Contacts[cite: 10].
+- Navigation Path
+- External Organizations → Contacts
 
 ![](media/slide096_img1.png){width=93%}
 
 ## Create / Edit Contact
 
-* Navigate to **External Organizations > Contacts**, click **Add New Contact** or edit an existing record[cite: 10]. Populate the standard sections[cite: 10]:
-
-### Basic Information Section
-* Enter First, Middle, and Last Name, Contact Type, Organization Name, Department Name, Role in Organization, and Organizational Title[cite: 10].
+- Navigate to External Organizations → Contacts.
+- To create a new contact:
+ - Click Add New Contact.
+- To modify an existing contact:
+ - Open the required contact record using the edit icon or search option.
+- Enter or update the required information in:
+**Basic Information**
+**Contact Details**
+**Contact Information**
+**Other Information**
+- Review all information carefully.
+- Click Save / Update.
 
 ![](media/slide097_img1.png){width=94%}
 
+## Basic Information Section
+
+The Basic Information section is used to maintain primary contact and organizational details.
+- Users can enter or modify:
+ - First Name
+ - Middle Name
+ - Last Name
+ - Contact Type
+ - Organization Name
+ - Department Name
+ - Role in Organization
+ - Organizational Title
+
 ![](media/slide098_img1.png){width=94%}
 
-### Contact Details Section
-* Maintain address lines 1–3, Country, State, City, and Zip Code[cite: 10].
+## Contact Details
+
+The Contact Details section is used to maintain address-related information for the contact.
+- Users can enter or modify:
+- Country
+- State
+- City
+- Zip Code
+- Address Line 1.
+- Address Line 2.
+- Address Line 3.
 
 ![](media/slide100_img1.png){width=96%}
 
-### Contact Information Section
-* Expand to record supplementary communication channels as per organizational standards[cite: 10].
+## Contact Information Section
+
+The Contact Information section is used to maintain additional communication and contact-related information.
+Users can expand this section to enter supplementary communication details as required by organizational standards.
 
 ![](media/slide101_img1.png){width=98%}
 
-### Other Information Section
-* Configure executive authority, leadership designations, signing authority, exchange details, contact images, and operational notes[cite: 10].
+## Other Information Section
+
+The Other Information section is used to configure executive authority, leadership designation, and additional organizational details.
+
+Users can:
+- Mark executive-level contacts.
+- Configure signing authority.
+- Maintain exchange-related details.
+- Upload contact images.
+- Add operational notes.
 
 ![](media/slide102_img1.png){width=95%}
 
 ## Common Actions Reference
-Standard operations across the module include **Create**, **Edit**, **Save**, **Save & New**, **Search**, **View**, and **Refresh**[cite: 10].
+
+The following actions are common throughout the Contacts module:
+- Create
+- Edit
+- Save
+- Save & New.
+- Search
+- View
+- Refresh
+
+These actions follow the same behavior throughout the application.

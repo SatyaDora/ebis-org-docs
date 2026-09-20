@@ -1,93 +1,173 @@
-# Organization: My Locations
+# Organization – My Locations
+The My Locations module is used to create, manage, and maintain organization location records within the platform. It allows administrators to configure location-specific information such as office locations, branches, facilities, addresses, contact details, and location hierarchy associated with organizations.
 
-The My Locations module is used to create and maintain location records (offices, branches, facilities, addresses, and location hierarchies)[cite: 5].
-
-* Navigate to **My Locations** via the main navigation menu[cite: 5].
+To access the My Locations, open the main navigation menu from the left panel
+- Navigate to My Locations.
 
 ![](media/slide044_img1.png){width=94%}
 
-## Create New Location
+### Basic Information
 
-### Basic Information Tab
-* Open the My Locations screen and click create[cite: 5].
-* Enter details such as Location Name, Organization Name, Phone numbers, Address lines 1-3, Country, State, City, and Zip[cite: 5].
-* Assign a Location Head, enter a Location Email Address, and specify or auto-generate a Location Code[cite: 5].
-* Enable **Head Quarters** if applicable, upload a location image, and enter Latitude/Longitude or use the search tool[cite: 5].
-* Capture notes and click **Save** or **Save & New**[cite: 5].
+- Open the My Locations screen and create a new location record.
+- Enter the required details such as Location Name and Organization Name.
+- Provide contact details including Phone 1 & 2 information.
+- Enter Address, address 2, and Address 3 details as required.
+- Select the Country and State values and enter City and Zip details.
+- Assign the Location Head if applicable.
+- Enter the Location Email Address for communication purposes.
+- Specify the Location Code or enable the auto-generated location code option if required.
+- Enable the Head Quarters option if the location represents the organization’s primary headquarters.
+- Upload a location image if applicable.
+- Enter Latitude & Longitude values or use the Search Location option to identify the geographical location.
+- Use the Notes section to capture additional information.
+- Click Save or Save & New.
 
 ![](media/slide045_img1.png){width=93%}
 
 ![](media/slide045_img2.png){width=93%}
 
-### Additional Information Tab
-* Navigate to the **Additional Information** tab under the buildings section to maintain supplementary contact and address information[cite: 5].
-* Click **Save / Update**[cite: 5].
+### Additional Information
+
+- Navigate to the Additional Information tab under the Buildings section.
+- Maintain additional building contact and address-related information such as Phone 1, Phone 2, address details, Country, State, City, and Zip information.
+- Review all entered address and contact information carefully before saving.
+- Click Save / Update to apply the changes.
 
 ![](media/slide046_img1.png){width=98%}
 
-### Access Information Tab
-* Configure building access rules and security details based on business requirements[cite: 5].
-* Click **Save / Update**[cite: 5].
+### Access Information
+
+- Navigate to the Access Information tab.
+- Maintain building access-related information and security access details wherever applicable.
+- Update access configurations and related operational details based on business requirements.
+- Review all entered information carefully before saving.
+- Click Save / Update to apply the changes.
 
 ![](media/slide047_img1.png){width=96%}
 
-### Other Information Tab
-* Maintain additional building-specific operational or administrative custom details[cite: 5].
-* Click **Save / Update**[cite: 5].
+### Other Information
+
+- Navigate to the Other Information tab.
+- Maintain additional building-specific operational or administrative information configured for the organization.
+- Update the required custom or supplementary details as applicable.
+- Review all entered information carefully before saving.
+- Click Save / Update to apply the changes.
 
 ![](media/slide048_img1.png){width=98%}
 
-### Documents Tab
-* Upload, replace, or manage building-related supporting documents[cite: 5].
-* Click **Save / Update**[cite: 5].
+### Documents
+
+- Navigate to the Documents tab.
+- Upload, replace, or manage building-related supporting documents and attachments.
+- Verify that the correct files are attached before submission.
+- Click Save / Update to apply the changes.
 
 ![](media/slide049_img1.png){width=98%}
 
-### Floors Tab
-* Create and manage floor records associated with the building (floor identification, numbering, and operational details)[cite: 5].
-* Click **Save / Update**[cite: 5].
+### Floors
+
+- Navigate to the Floors tab.
+- Create and manage floor records associated with the selected building.
+- Maintain floor-related information such as floor identification, numbering, and associated operational details.
+- Review all entered floor information carefully before saving.
+- Click Save / Update to apply the changes.
 
 ![](media/slide050_img1.png){width=98%}
 
-## Manage Location Records
+## Edit Location Details
 
-### Edit Location Details
-* Select a location record from the list view, open in edit mode, update necessary fields (address, contacts, geo-location, images, or notes), and click **Save / Update**[cite: 5].
+- Select the required location record from the list view.
+- Open the selected record in edit mode.
+- Update the required details such as address information, contact details, location head, geo-location details, or organization information.
+- Modify the location image or notes if required.
+- Click Save / Update to apply the changes.
 
 ![](media/slide051_img1.png){width=96%}
 
-### Manage Buildings within Locations
-* **Basic Information:** Navigate to the Buildings section under a location record, click Create New, enter Building Name, Number, and check **Is Primary** if applicable[cite: 5].
-  
-  ![](media/slide052_img1.png){width=94%}
+### Basic Information
 
-  ![](media/slide052_img2.png){width=93%}
+The Buildings section allows administrators to associate one or more building records with a specific organization location.
 
-* **Additional Information:** Update secondary contacts, address fields, country, state, city, and zip[cite: 5].
-  
-  ![](media/slide053_img1.png){width=97%}
+- Navigate to the Buildings section under the selected location record.
+- Use the Create New option to add a new building record.
+- Enter or update details such as Building Name, Building Number, and Primary Building information.
+- Enable the Is Primary option for the main building associated with the location if applicable.
+- Click Save / Save & New to apply the changes.
 
-* **Access Information:** Configure operational access rules[cite: 5].
-  
-  ![](media/slide054_img1.png){width=98%}
+![](media/slide052_img1.png){width=94%}
 
-* **Other Information:** Update custom operational data[cite: 5].
-  
-  ![](media/slide055_img1.png){width=99%}
+![](media/slide052_img2.png){width=93%}
 
-* **Documents:** Upload building-related attachments[cite: 5].
-  
-  ![](media/slide056_img1.png){width=98%}
+### Additional Information
 
-* **Floors:** Manage floor identification, workspace allocations, and types[cite: 5].
-  
-  ![](media/slide057_img1.png){width=95%}
+- Navigate to the Additional Information tab under the Buildings section.
+- Maintain additional building contact and address-related information such as Phone 1, Phone 2, address details, Country, State, City, and Zip information.
+- Review all entered address and contact information carefully before saving.
+- Click Save / Update to apply the changes.
 
-### Manage Floor Details and Availability
-* Configure detailed floor attributes including Building/Floor Name, Number, Floor Type, Total Area, Measurement Units, Max Workspaces, and DL Email Address[cite: 5].
-* Configure **Floor Plan Options** (Data Center, Work/Office Spaces, Conference Rooms, Mail Stops/Warehouse) and **Floor Information** (Fully Owned/Leased, Fully Occupied)[cite: 5].
-* Click **Save**[cite: 5].
+![](media/slide053_img1.png){width=97%}
+
+### Edit Location Details – Buildings
+
+- Navigate to the Access Information tab.
+- Maintain building access-related information and security access details wherever applicable.
+- Update access configurations and related operational details based on business requirements.
+- Click Save / Update to apply the changes.
+
+![](media/slide054_img1.png){width=98%}
+
+## Other Information Tab
+
+- Navigate to the Other Information tab.
+- Maintain additional building-specific operational or administrative information configured for the organization.
+- Update the required custom or supplementary details as applicable.
+- Review all entered information carefully before saving.
+- Click Save / Update to apply the changes.
+
+![](media/slide055_img1.png){width=99%}
+
+### Documents Tab
+
+- Navigate to the Documents tab.
+- Upload, replace, or manage building-related supporting documents and attachments.
+- Verify that the correct files are attached before submission.
+- Click Save / Update to apply the changes.
+
+![](media/slide056_img1.png){width=98%}
+
+### Floors
+
+- Navigate to the Floors tab.
+- Create and manage floor records associated with the selected building.
+- Maintain floor-related information such as floor identification, numbering, and associated operational details.
+- Review all entered floor information carefully before saving. Click Save / Update to apply the changes.
+
+![](media/slide057_img1.png){width=95%}
+
+The Floors section allows administrators to create and manage floor-level information associated with a selected building. This section helps maintain floor identification details, floor type, workspace allocation, accessibility features, operational facilities, floor plans, and safety-related information.
+
+- Select the required location and open the associated building record.
+- Navigate to the Floors tab under the Buildings section.
+- Create a new floor record for the selected building.
+- Enter the required floor details such as:
+ - Building Name, Floor Name, Floor Number
+ - Building Floor Type
+ - Total Area
+ - Area Measurement Unit
+ - Maximum Workspaces
+ - Floor DL Email Address
 
 ![](media/slide058_img1.png){width=95%}
+
+### Configure Floor Plan
+
+Configure the Floor Plan options based on the facilities available on the floor:
+ - Data Center
+ - Work/Office Spaces /Conference Rooms
+ - Mail Stops /Warehouse
+ - Configure the Floor Information options as applicable:
+ - Fully Owned/Leased
+ - Fully Occupied
+- Click Save to create the floor record.
 
 ![](media/slide059_img1.png){width=97%}
