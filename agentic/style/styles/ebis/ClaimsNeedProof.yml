@@ -1,0 +1,8 @@
+extends: existence
+message: "Claim '%s' has no adjacent named mechanism or number. Add one or rewrite."
+level: error
+ignorecase: true
+tokens:
+  - 'unlock(s|ing)? value'
+  - 'streamlines? (your|the) workflow'
+  - 'improves? efficiency'
