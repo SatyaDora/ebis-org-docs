@@ -3,7 +3,7 @@ const fs = require("fs");
 const path = require("path");
 const yaml = require("js-yaml");
 
-const STYLE_DIR = path.join(__dirname, "..", "style", "styles", "Softobiz");
+const STYLE_DIR = path.join(__dirname, "..", "style", "styles", "ebis");
 
 function fallbackLint(text) {
   const ruleFiles = fs.readdirSync(STYLE_DIR).filter((f) => f.endsWith(".yml"));
