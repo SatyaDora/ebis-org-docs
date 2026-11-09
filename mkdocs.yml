@@ -1,11 +1,11 @@
-site_name: ISSQUARED EBIS Training — Organization Module
-site_description: Single-source training documentation for the EBIS Organization module
+site_name: Ktech EBIS Training — platform Module
+site_description: Single-source training documentation for the EBIS platform module
 docs_dir: docs
 
 theme:
   name: material
   palette:
-    # Swap these two colors for official Issquared brand colors before the demo
+    # Swap these two colors for official Ktech brand colors before the demo
     primary: deep blue
     accent: blue
   features:
@@ -18,16 +18,16 @@ theme:
 
 nav:
   - Home: index.md
-  - Getting Started: accessing-organization-module.md
-  - My Organizations: organization-my-organizations.md
-  - Relationships: organization-organizational-relationship.md
-  - IP Records: organization-intellectual-property.md
-  - Locations: organization-my-locations.md
-  - Contracts: organization-contracts.md
-  - External Orgs: organization-external-organizations.md
-  - External Locations: organization-external-locations.md
-  - Contacts: organization-contacts.md
-  - Admin – General: organization-administration-general.md
+  - Getting Started: accessing-platform-module.md
+  - My platforms: platform-my-platforms.md
+  - Relationships: platform-platformal-relationship.md
+  - IP Records: platform-intellectual-property.md
+  - Locations: platform-my-locations.md
+  - Contracts: platform-contracts.md
+  - External Orgs: platform-external-platforms.md
+  - External Locations: platform-external-locations.md
+  - Contacts: platform-contacts.md
+  - Admin – General: platform-administration-general.md
 
 plugins:
   - search
